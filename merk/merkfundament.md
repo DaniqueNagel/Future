@@ -41,7 +41,18 @@ Als het merk een persoon was, dan is die:
 
 ## Naam
 
-**Keuze:** een bedrijfsnaam, geen eigen naam.
+**Keuze:** eerst een bedrijfsnaam. Later bijgesteld: het mag persoonlijker, zie "Richting".
+
+**Richting, sinds 8 oktober**
+
+Het merk moet meer van Danique zelf zijn: een professional die mensen helpt hun weg te vinden in AI. De naam hoeft dus niet slim te zijn. Danique is het merk; de knipoog mag ook in de regel eronder, het logo en de teksten zitten.
+
+Vormen die nog open liggen:
+
+- **Danique Nagel**, met een regel eronder zoals "Wegwijs in AI".
+- **Danique**, alleen de voornaam. Warm, als een gids die je kent.
+- **Nagel**, de achternaam als merk, met "de spijker op z'n kop" als knipoog.
+- Een eigen naam of woord dat persoonlijk voelt, uit de dagelijkse naamideeën.
 
 **Criteria**, op basis van wat wel en niet aansprak:
 
@@ -52,6 +63,10 @@ Als het merk een persoon was, dan is die:
 - Engels mag, maar makkelijk uit te spreken. Niet Spaans of Zuid-Europees.
 - De verjaardagstest: je zegt aan tafel "mijn bedrijf heet ..." zonder te spellen of uit te leggen.
 - Niet te letterlijk, niet cryptisch.
+- Geen verkleinwoorden, niet te kinderlijk.
+- Hooguit twee lettergrepen.
+- Mag techie zijn, maar volwassen.
+- Geen "Studio": dat klinkt te veel als grafisch ontwerp.
 
 **Shortlist, ronde 2: techtermen met een gewone betekenis**
 
