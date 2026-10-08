@@ -53,24 +53,32 @@ Als het merk een persoon was, dan is die:
 - De verjaardagstest: je zegt aan tafel "mijn bedrijf heet ..." zonder te spellen of uit te leggen.
 - Niet te letterlijk, niet cryptisch.
 
-**Shortlist**
+**Shortlist, ronde 2: techtermen met een gewone betekenis**
+
+Het patroon: termen uit het werkproces van ontwikkelaars en AI, die ook een betekenis hebben die iedereen begrijpt. Zo hoort een ontwikkelaar iets anders dan een ondernemer, en klopt het voor allebei.
+
+| | Loop | Commit | Sandbox |
+|---|---|---|---|
+| Techbetekenis | Een herhaling in code: automatiseren. | Werk vastleggen in GitHub. | Een veilige testomgeving. |
+| Gewone betekenis | "In the loop": op de hoogte gehouden worden. | Commitment: toewijding. | Een zandbak: een plek om te spelen en te ontdekken. |
+| Extra laag | "Human in the loop": de mens houdt de regie over AI. | Je maakt af wat je belooft. | AI veilig uitproberen, zonder angst. |
+| Past bij | Automatiseren en doorlopende zorg. | Bouwen en betrouwbaarheid. | Laagdrempeligheid en experimenteren. |
+| Aandachtspunt | Bekend Belgisch oordopjesmerk Loop. Uitspraak "loop" of "loep". | Veelgebruikte term. Hardere klank. | Hardere klank. Mag niet speelgoedachtig overkomen. |
+
+Varianten die nog meelopen: Inloop, Loopwerk.
+
+**Shortlist, ronde 1**
 
 | | Clove | Thimble |
 |---|---|---|
 | Betekenis | Kruidnagel. Klein, maar geeft het hele gerecht smaak. | Vingerhoed. Hiermee naai je zonder je te prikken. |
-| Wat het zegt over je werk | Je voegt het juiste ingrediënt toe aan een bedrijf, zonder alles om te gooien. | Je zorgt dat ondernemers AI veilig en op maat gebruiken. |
 | Persoonlijke laag | Kruidnagel, dus Nagel. | Beschermt je vingernagel. |
-| Knipoog | Klinkt bijna als Claude. | Maatwerk en het naaiatelier, dicht bij design. |
-| Metafoor voor diensten | Keuken: proeverij, recept, bereiding, op smaak brengen. | Atelier: patroon, op maat, afwerking. |
-| Mogelijke slogan | "AI, op smaak gebracht." | "AI op maat, zonder prikken." |
-| Aandachtspunt | Geen indruk wekken van een band met Anthropic. | Lastige "th"; in de VS bestaat een verzekeraar met deze naam. |
+| Aandachtspunt | Veel Nederlanders lezen het als "kloof". | Lastige "th"; in de VS bestaat een verzekeraar met deze naam. |
 
-Advies: Clove past het best bij de merkkern en slaagt voor de verjaardagstest. Thimble is de tweede keus.
-
-**Testen, voor beide namen**
+**Testen, voor elke naam op de shortlist**
 
 - [ ] Belletjestest: zeg de naam tegen vijf mensen, het liefst ondernemers. Kunnen ze hem spellen? Wat denken ze dat het bedrijf doet?
-- [ ] Domeinnaam: check bij een registrar. Varianten: studioclove.nl, clove.design, hellothimble.nl.
+- [ ] Domeinnaam: check bij een registrar. Varianten: studioloop.nl, commit.design, sandbox.studio.
 - [ ] KvK-handelsnamen checken op kvk.nl.
 - [ ] Benelux-merkenregister checken op boip.int, vooral in software, design en advies.
 
@@ -78,6 +86,9 @@ Advies: Clove past het best bij de merkkern en slaagt voor de verjaardagstest. T
 
 - Letterlijke computerhandelingen, zoals Autofill, Spacebar en Hotkey: te letterlijk.
 - Metaforen zoals Lightswitch en Little Lever: pasten niet bij de persoon.
+- Nederlandse verkleinwoorden, zoals Duimpje en Haakje: te kinderlijk.
+- Nederlandse samenstellingen, zoals Werkwijs en Samenspel: te veel lettergrepen.
+- Nederlandse woorden zoals Loods, Vlot en Knoop: beter, maar te weinig techie.
 - Ambachtswoorden met harde klank, zoals Seam, Rivet, Tack en Hex: te hard.
 - Zuid-Europese woorden, zoals Mano, Manu en Ola: te Spaans.
 - "Nique", uit Danique: is in het Frans een grof scheldwoord.
