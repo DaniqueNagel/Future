@@ -81,6 +81,8 @@ Advies: Clove past het best bij de merkkern en slaagt voor de verjaardagstest. T
 - Ambachtswoorden met harde klank, zoals Seam, Rivet, Tack en Hex: te hard.
 - Zuid-Europese woorden, zoals Mano, Manu en Ola: te Spaans.
 - "Nique", uit Danique: is in het Frans een grof scheldwoord.
+- Clou: Frans voor spijker, en "de clou" in het Nederlands. Mooi idee, maar het is het niet.
+- Let bij Clove op: veel Nederlanders lezen het als "kloof". Neem dat mee in de belletjestest.
 
 ---
 
