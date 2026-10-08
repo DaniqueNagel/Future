@@ -10,5 +10,6 @@ Deze repo is mijn werkplek voor het traject "voor mezelf beginnen".
 | [merk/merkfundament.md](merk/merkfundament.md) | Merkkern, persoonlijkheid, naam en tone of voice van mijn eigen bedrijf |
 | [merk/naamideeen.md](merk/naamideeen.md) | Dagelijkse naamideeën, ronde voor ronde |
 | [website/](website/) | Mijn website: designsysteem, brief per sectie en de code |
+| [website-video/](website-video/) | Videoversie van mijn website, met scrollvideo en de prompts voor Nano Banana en Kling |
 
 Werkwijze: het werkboek invullen, dan het plan concreet maken, dan elke twee weken bijwerken.
