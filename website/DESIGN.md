@@ -2,88 +2,104 @@
 
 *Laag 1 van 3: de regels. Een AI-agent die aan deze site bouwt, volgt dit bestand altijd. Wijkt iets af, dan past eerst dit bestand aan, en daarna pas de code.*
 
-## Uitgangspunt
+## Design read
 
-**Strak en rustig.** Veel witruimte, een strak raster, één accentkleur. Het ontwerp straalt uit wat het merk belooft: rust en overzicht in een onderwerp dat voor veel mensen chaotisch voelt.
+Een persoonlijke site voor ondernemers in het MKB, met een speelse en eigenwijze taal. Gebouwd met gewone HTML, CSS en JavaScript, met uitgesproken typografie en handgeschreven aantekeningen.
 
-**Beeldidee: de route.** Waar beeld nodig is, gebruiken we een rustig raster van punten met één lijn die er een weg doorheen vindt. Dat is wat Danique doet: de weg vinden in AI. De lijn eindigt altijd in de accentkleur.
+**Instellingen**, volgens de taste-skill van Leon Lin:
+
+| Instelling | Waarde | Waarom |
+|---|---|---|
+| Variatie in layout | 9 van 10 | Speels en eigenwijs: asymmetrisch, onverwacht |
+| Beweging | 6 van 10 | Merkbaar, maar elke beweging heeft een reden |
+| Dichtheid | 3 van 10 | Ruim en luchtig |
+
+## Het idee: Danique's ontwerpbestand
+
+De site voelt als een ontwerp waar Danique zelf aantekeningen in heeft gezet. Handgeschreven notities in de accentkleur, een doorgestreepte to-do-lijst, een sticker op haar foto. Zo zie je dat er een mens achter zit, en een ontwerper die het leuk vindt.
+
+**Het routebeeld blijft:** in de werkwijze loopt een stippellijn langs vier haltes. De laatste halte is altijd in de accentkleur.
 
 ## Kleur
 
-Alle kleuren zijn tokens in `styles.css`. Gebruik nooit een losse hexwaarde in een component.
+Eén accentkleur, op de hele pagina dezelfde. Alle kleuren zijn tokens in `styles.css`.
 
 | Token | Licht | Donker | Gebruik |
 |---|---|---|---|
-| `--bg` | `#F7F8F6` | `#0E1312` | Achtergrond van de pagina |
-| `--surface` | `#FFFFFF` | `#151C1B` | Kaarten en vlakken |
-| `--ink` | `#111816` | `#ECF0EE` | Koppen en hoofdtekst |
-| `--muted` | `#59645F` | `#9AA6A2` | Ondersteunende tekst |
-| `--line` | `#E1E6E3` | `#26302E` | Lijnen en randen |
-| `--accent` | `#0F5E58` | `#5FC2B6` | De ene accentkleur: knoppen, links, het eindpunt van de route |
-| `--accent-soft` | `#E2EFEC` | `#173230` | Zachte achtergrond achter accentelementen |
+| `--bg` | `#F4F6F3` | `#111513` | Achtergrond |
+| `--surface` | `#FFFFFF` | `#191F1D` | Vlakken, de rand van de foto |
+| `--ink` | `#141917` | `#EEF1EF` | Tekst, het donkere tegelvlak |
+| `--muted` | `#56615C` | `#9BA7A2` | Ondersteunende tekst |
+| `--line` | `#DCE2DE` | `#2A3431` | Lijnen |
+| `--accent` | `#0D6E66` | `#6CCFC2` | Knoppen, aantekeningen, doorhalingen, de sticker |
+| `--accent-soft` | `#DDEFEB` | `#16302D` | Zachte tegelvlakken |
 
 **Regels**
-- De accentkleur beslaat nooit meer dan ongeveer 5 procent van een scherm.
-- Per scherm is er maximaal één gevulde accentknop.
-- Contrast van tekst is minimaal 4,5:1 in beide thema's.
-- Het donkere thema volgt de instelling van de bezoeker.
+- Geen tweede accentkleur, nergens.
+- De foto is in zwart-wit en krijgt kleur bij hover. Zo botst de paarse achtergrond van de foto niet met de accentkleur.
+- Contrast van tekst minimaal 4,5:1 in beide thema's. Het thema volgt de instelling van de bezoeker.
 
 ## Typografie
 
-- **Koppen en tekst:** Instrument Sans, gewichten 400, 500 en 600.
-- **Labels en kleine details:** JetBrains Mono, gewicht 500, in hoofdletters met 0,08em letterafstand. Dit is de enige techknipoog in de typografie.
+- **Alles:** Bricolage Grotesque. Een eigenwijze schreefloze letter met karakter. Koppen in gewicht 700, tekst in 400.
+- **Aantekeningen:** Caveat, gewicht 600, altijd in de accentkleur. Alleen voor korte handgeschreven notities, nooit voor gewone tekst.
+- Geen kleine labels in hoofdletters boven secties. De kop is genoeg.
 
-**Schaal**, ratio 1,25, basis 17 px:
+**Schaal**
 
 | Token | Grootte | Gebruik |
 |---|---|---|
-| `--t-xs` | 13 px | Labels in mono |
-| `--t-sm` | 15 px | Kleine tekst, voetnoten |
-| `--t-base` | 17 px | Lopende tekst |
-| `--t-lg` | 21 px | Intro's en grote alinea's |
-| `--t-xl` | 27 px | Kopjes van kaarten |
-| `--t-2xl` | 34 px | Sectiekoppen op mobiel |
-| `--t-3xl` | 44 px | Sectiekoppen |
-| `--t-4xl` | clamp(44 px, 7vw, 76 px) | Alleen de hero |
+| `--t-sm` | 15 px | Kleine tekst |
+| `--t-base` | 18 px | Lopende tekst |
+| `--t-lg` | 22 px | Intro's |
+| `--t-note` | 26 px | Aantekeningen in Caveat |
+| `--t-xl` | 30 px | Tegelkoppen, werkregels |
+| `--t-2xl` | clamp(36 px, 5vw, 56 px) | Sectiekoppen |
+| `--t-hero` | clamp(44 px, 6.4vw, 84 px) | Alleen de hero |
 
 **Regels**
-- Koppen: gewicht 500, regelafstand 1,08, letterafstand -0,02em, `text-wrap: balance`.
-- Lopende tekst: regelafstand 1,6, maximaal 62 tekens breed.
-- Nooit meer dan drie tekstgroottes in één sectie.
+- Koppen: regelafstand 1,02, letterafstand -0,035em, `text-wrap: balance`.
+- Lopende tekst: regelafstand 1,55, maximaal 60 tekens breed.
+- Nadruk in een kop gaat met de accentkleur of een onderstreping, nooit met een tweede lettertype.
 
 ## Raster en ruimte
 
-- **Raster:** 12 kolommen, maximale breedte 1200 px, kolomafstand 24 px.
-- **Zijmarge:** clamp(20 px, 5vw, 64 px). Op elke breedte minimaal 20 px.
-- **Ruimteschaal:** 4, 8, 12, 16, 24, 32, 48, 64, 96, 128 px. Gebruik alleen deze waarden.
-- **Tussen secties:** 128 px op desktop, 96 px op mobiel.
-- **Hoeken:** 14 px voor kaarten, 999 px voor knoppen. Niets anders.
-- **Schaduw:** geen. Diepte komt van lijnen en vlakken.
+- Maximale breedte 1240 px, zijmarge clamp(20 px, 5vw, 72 px).
+- Ruimteschaal: 4, 8, 12, 16, 24, 32, 48, 64, 96, 136 px.
+- Tussen secties: 136 px op desktop, 96 px op mobiel.
+- **Hoeken:** knoppen en de sticker zijn rond, tegels en de foto hebben 20 px. Niets anders.
+- Geen schaduwen, behalve onder de foto: een zachte schaduw in de tint van de achtergrond, zodat hij als een polaroid op de pagina ligt.
+
+## Layout
+
+Elke sectie heeft een eigen vorm. Geen twee secties zien er hetzelfde uit.
+
+| Sectie | Vorm |
+|---|---|
+| Hero | Tekst links, scheve polaroid rechts |
+| Herkenning | To-do-lijst die zichzelf doorstreept |
+| Diensten | Asymmetrische tegels: één grote, twee kleine, elk met een eigen vlakkleur |
+| Werkwijze | Een route met vier haltes, zonder nummers |
+| Werk | Een lijst met grote titels, als een inhoudsopgave |
+| Over | Eén grote uitspraak, met een korte tekst en een handtekening |
+| Kennismaking | Grote kop links, actie rechts |
+
+**Verboden**, volgens de taste-skill: drie gelijke kaarten, labels boven elke sectie, genummerde stappen, liggende streepjes als gedachtestreep, decoratieve stipjes, nepschermafbeeldingen en verzonnen cijfers.
 
 ## Beweging
 
-Beweging is subtiel en ondersteunt de inhoud, nooit andersom.
-
-| Moment | Effect | Duur | Easing |
-|---|---|---|---|
-| Sectie komt in beeld | Opacity 0 naar 1, 12 px omhoog | 600 ms | cubic-bezier(0.2, 0.7, 0.2, 1) |
-| Elementen in een rij | Zelfde effect, met 80 ms vertraging per element | 600 ms | idem |
-| Hover op knop of kaart | Kleur of rand verandert | 160 ms | ease-out |
-| De route in de hero | De lijn tekent zich één keer | 1800 ms | cubic-bezier(0.65, 0, 0.35, 1) |
+| Moment | Effect | Duur |
+|---|---|---|
+| Sectie komt in beeld | Opacity 0 naar 1, 16 px omhoog | 700 ms, cubic-bezier(0.2, 0.7, 0.2, 1) |
+| To-do-lijst komt in beeld | Elke regel wordt doorgestreept, 350 ms na elkaar. Daarna verschijnt de aantekening. | 500 ms per streep |
+| Hover op de foto | Kleur verschijnt, de foto draait recht | 400 ms |
+| Hover op een werkregel | Titel schuift 8 px op, pijl verschijnt | 200 ms |
+| Klik op een knop | Even 2 procent kleiner | 120 ms |
 
 **Regels**
-- Alles is ook zonder animatie volledig zichtbaar en leesbaar.
-- Bij `prefers-reduced-motion` staat alle beweging uit.
-- Geen parallax, geen elementen die blijven bewegen.
-
-## Componenten
-
-- **Knop, primair:** gevuld met `--accent`, tekst in `--surface`, hoogte 48 px, horizontale padding 24 px.
-- **Knop, secundair:** transparant, rand `--line`, tekst `--ink`. Bij hover wordt de rand `--ink`.
-- **Label:** mono, `--t-xs`, kleur `--muted`. Staat boven een sectiekop en zegt waar de sectie over gaat.
-- **Kaart:** `--surface`, rand `--line`, hoek 14 px, padding 32 px. Geen schaduw.
-- **Stappen:** genummerd, alleen omdat de werkwijze echt een volgorde heeft.
+- Niets blijft eindeloos bewegen.
+- Bij `prefers-reduced-motion` staat alle beweging uit, en staat de to-do-lijst meteen doorgestreept.
 
 ## Tekst
 
-Volg de tone of voice uit `../merk/merkfundament.md`: je in plaats van u, een vleugje humor, vaktaal altijd uitleggen, korte zinnen. Geen verzonnen klantcijfers of reviews. Wat nog niet bestaat, is een duidelijk gemarkeerde placeholder.
+Volg de tone of voice uit `../merk/merkfundament.md`: je in plaats van u, een vleugje humor, vaktaal uitleggen, korte zinnen. Eén actie heeft overal hetzelfde label: "Plan een kennismaking".

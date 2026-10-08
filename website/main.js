@@ -1,45 +1,43 @@
-// Laag 3 van 3: uitvoering. Beweging volgens DESIGN.md: subtiel, één keer, en uit bij reduced motion.
+// Laag 3 van 3: uitvoering. Beweging volgens DESIGN.md. Bij reduced motion staat alles meteen in de eindstand.
 (function () {
-  var root = document.documentElement;
   var reduce = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+  var todo = document.querySelector(".todo");
+  var items = todo ? todo.querySelectorAll(".todo-list li") : [];
 
-  // Raster van punten achter de route
-  var dots = document.querySelector(".route-dots");
-  if (dots) {
-    var ns = "http://www.w3.org/2000/svg";
-    for (var x = 40; x <= 440; x += 40) {
-      for (var y = 60; y <= 340; y += 40) {
-        var c = document.createElementNS(ns, "circle");
-        c.setAttribute("cx", x); c.setAttribute("cy", y); c.setAttribute("r", 1.6);
-        dots.appendChild(c);
-      }
-    }
+  function finishTodo() {
+    items.forEach(function (li) { li.classList.add("done"); });
+    if (todo) todo.classList.add("complete");
   }
 
-  if (reduce || !("IntersectionObserver" in window)) return;
-  root.classList.add("js");
+  if (reduce || !("IntersectionObserver" in window)) { finishTodo(); return; }
+  document.documentElement.classList.add("js");
 
-  // De route tekent zich één keer
-  var line = document.querySelector(".route-line");
-  var ring = document.querySelector(".route-end-ring");
-  if (line) line.classList.add("draw");
-  if (ring) ring.classList.add("draw");
-
-  // Elementen in een rij krijgen 80 ms vertraging per stuk
-  document.querySelectorAll(".grid-3, .grid-2, .steps").forEach(function (group) {
-    group.querySelectorAll(".reveal").forEach(function (el, i) { el.style.setProperty("--d", i * 80 + "ms"); });
+  // Elementen in een groep verschijnen kort na elkaar
+  document.querySelectorAll(".bento, .route, .work, .about-copy").forEach(function (group) {
+    group.querySelectorAll(".reveal").forEach(function (el, i) { el.style.setProperty("--d", i * 90 + "ms"); });
   });
 
   var io = new IntersectionObserver(function (entries) {
     entries.forEach(function (e) {
-      if (e.isIntersecting) { e.target.classList.add("in"); io.unobserve(e.target); }
+      if (!e.isIntersecting) return;
+      e.target.classList.add("in");
+      io.unobserve(e.target);
     });
   }, { rootMargin: "0px 0px -8% 0px", threshold: 0.1 });
 
   document.querySelectorAll(".reveal").forEach(function (el) {
-    // Wat al in beeld staat bij het laden, verschijnt meteen
-    var r = el.getBoundingClientRect();
-    if (r.top < window.innerHeight) { requestAnimationFrame(function () { el.classList.add("in"); }); }
+    if (el.getBoundingClientRect().top < window.innerHeight) requestAnimationFrame(function () { el.classList.add("in"); });
     else io.observe(el);
   });
+
+  // De to-do-lijst streept zichzelf door, regel voor regel
+  if (todo) {
+    var tio = new IntersectionObserver(function (entries) {
+      if (!entries[0].isIntersecting) return;
+      tio.disconnect();
+      items.forEach(function (li, i) { setTimeout(function () { li.classList.add("done"); }, 300 + i * 350); });
+      setTimeout(function () { todo.classList.add("complete"); }, 300 + items.length * 350 + 300);
+    }, { threshold: 0.5 });
+    tio.observe(todo);
+  }
 })();

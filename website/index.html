@@ -3,11 +3,11 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-  <title>Danique Nagel · Wegwijs in AI</title>
-  <meta name="description" content="Danique Nagel helpt ondernemers de weg te vinden in AI. Websites en klantportalen bouwen met AI, persoonlijke AI-begeleiding en een AI-scan.">
+  <title>Danique Nagel | Wegwijs in AI</title>
+  <meta name="description" content="Danique Nagel helpt ondernemers de weg te vinden in AI, met websites en klantportalen, persoonlijke begeleiding en een AI-scan.">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Instrument+Sans:wght@400;500;600&family=JetBrains+Mono:wght@500&display=swap">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,400;12..96,500;12..96,700&family=Caveat:wght@600&display=swap">
   <link rel="stylesheet" href="styles.css">
 </head>
 <body>
@@ -15,209 +15,163 @@
 
   <header class="nav">
     <div class="wrap nav-inner">
-      <a class="wordmark" href="#top" aria-label="Danique Nagel, naar boven">Danique Nagel<span class="dot" aria-hidden="true"></span></a>
+      <a class="wordmark" href="#top">Danique Nagel</a>
       <nav aria-label="Hoofdmenu">
         <ul class="nav-links">
           <li><a href="#diensten">Diensten</a></li>
           <li><a href="#werk">Werk</a></li>
           <li><a href="#over">Over</a></li>
-          <li><a href="#kennismaken">Contact</a></li>
         </ul>
       </nav>
-      <!-- TODO: vervang # door je agendalink, bijvoorbeeld van Cal.com of Calendly -->
       <a class="btn btn-primary btn-sm" href="#kennismaken">Plan een kennismaking</a>
     </div>
   </header>
 
   <main id="main">
-    <!-- 2. Hero -->
+    <!-- Hero -->
     <section class="hero" id="top">
       <div class="wrap hero-grid">
         <div class="hero-copy">
-          <p class="label reveal">AI voor ondernemers</p>
-          <h1 class="reveal">Ik help je de weg te vinden in AI.</h1>
-          <p class="lead reveal">Ik ben Danique, ontwerper en bouwer. Ik maak AI begrijpelijk en bruikbaar voor jouw bedrijf, van een slimme website tot een plan waar je morgen mee verder kunt.</p>
+          <h1 class="reveal">Ik help je de weg te vinden in <span class="hl">AI.</span></h1>
+          <p class="note note-hero reveal">
+            <svg class="arrow" viewBox="0 0 60 40" aria-hidden="true"><path d="M56 6 C 40 2, 18 8, 8 30 M8 30 L 6 18 M8 30 L 19 26"/></svg>
+            ook als je denkt dat je er niks van snapt
+          </p>
+          <p class="lead reveal">Ik ben Danique, ontwerper en bouwer. Ik maak AI begrijpelijk en bruikbaar voor jouw bedrijf.</p>
           <div class="actions reveal">
             <a class="btn btn-primary" href="#kennismaken">Plan een kennismaking</a>
             <a class="btn btn-secondary" href="#werk">Bekijk mijn werk</a>
           </div>
         </div>
-        <div class="hero-visual" aria-hidden="true">
-          <svg class="route" viewBox="0 0 480 400" role="presentation" focusable="false">
-            <g class="route-dots"></g>
-            <path class="route-line" pathLength="1" d="M40 340 C 120 340, 120 260, 180 260 S 240 180, 300 180 S 360 100, 440 60"/>
-            <circle class="route-node" cx="40" cy="340" r="6"/>
-            <circle class="route-node" cx="180" cy="260" r="6"/>
-            <circle class="route-node" cx="300" cy="180" r="6"/>
-            <circle class="route-end-ring" cx="440" cy="60" r="16"/>
-            <circle class="route-end" cx="440" cy="60" r="8"/>
-          </svg>
+        <figure class="polaroid reveal">
+          <!-- TODO: vervang door een scherpere portretfoto als je die hebt -->
+          <img src="img/danique.jpg" alt="Portret van Danique Nagel" width="296" height="376">
+          <figcaption>Danique</figcaption>
+          <span class="sticker" aria-hidden="true">Hoi!</span>
+        </figure>
+      </div>
+    </section>
+
+    <!-- Herkenning -->
+    <section class="section todo-section" aria-labelledby="todo-kop">
+      <div class="wrap todo-wrap">
+        <h2 id="todo-kop" class="reveal">Je to-do-lijst, maar dan eerlijk.</h2>
+        <div class="todo">
+          <ul class="todo-list">
+            <li><span class="todo-text"><span class="strike">Uitzoeken wat AI voor mijn bedrijf kan doen</span></span></li>
+            <li><span class="todo-text"><span class="strike">Website vernieuwen <em>(staat al twee jaar op deze lijst)</em></span></span></li>
+            <li><span class="todo-text"><span class="strike">Minder tijd kwijt aan mails en offertes</span></span></li>
+          </ul>
+          <p class="note note-todo">regelen we samen</p>
         </div>
       </div>
     </section>
 
-    <!-- 3. Herkenning -->
-    <section class="section" aria-labelledby="herken-kop">
-      <div class="wrap">
-        <p class="label reveal">Herken je dit?</p>
-        <h2 id="herken-kop" class="reveal">AI is overal. Maar waar begin je?</h2>
-        <div class="grid-3">
-          <article class="point reveal">
-            <h3>Iedereen heeft het over AI</h3>
-            <p>Je leest erover, je hoort erover, en je weet dat je er iets mee moet. Alleen niet wat, of hoe.</p>
-          </article>
-          <article class="point reveal">
-            <h3>Je website loopt achter</h3>
-            <p>Hij ziet er verouderd uit, en elke aanpassing kost weken en een flinke rekening.</p>
-          </article>
-          <article class="point reveal">
-            <h3>Je werk kan slimmer</h3>
-            <p>Je verliest uren aan mails, offertes en kopieer-en-plakwerk. Dat voelt als zonde van je tijd. Dat is het ook.</p>
-          </article>
-        </div>
-      </div>
-    </section>
-
-    <!-- 4. Diensten -->
+    <!-- Diensten -->
     <section class="section" id="diensten" aria-labelledby="diensten-kop">
       <div class="wrap">
-        <p class="label reveal">Wat ik doe</p>
-        <h2 id="diensten-kop" class="reveal">Van eerste vraag tot werkende oplossing.</h2>
-        <div class="grid-3 cards">
-          <article class="card reveal">
-            <span class="card-tag">Bouwen</span>
+        <h2 id="diensten-kop" class="reveal">Wat ik voor je doe.</h2>
+        <div class="bento">
+          <article class="tile tile-big reveal">
             <h3>Websites en klantportalen</h3>
-            <p>Ik ontwerp en bouw je website of klantportaal met AI. Daardoor gaat het sneller dan bij een traditioneel bureau, zonder dat het er goedkoop uitziet.</p>
-            <dl>
-              <dt>Voor wie</dt><dd>Ondernemers met een verouderde of rommelige website</dd>
-              <dt>Je houdt over</dt><dd>Een site die werkt, en die je zelf kunt bijhouden</dd>
-            </dl>
+            <p>Ik ontwerp en bouw je website of klantportaal met AI. Sneller dan een traditioneel bureau, zonder dat het er goedkoop uitziet.</p>
+            <p class="tile-foot">Je houdt een site over die werkt, en die je zelf kunt bijhouden.</p>
           </article>
-          <article class="card reveal">
-            <span class="card-tag">Begeleiden</span>
+          <article class="tile tile-dark reveal">
             <h3>AI-begeleiding</h3>
-            <p>Eén op één, in jouw tempo. Ik laat je zien wat AI voor jouw werk doet, en we zetten het samen in. Vakwoorden leg ik uit, beloofd.</p>
-            <dl>
-              <dt>Voor wie</dt><dd>Ondernemers die zelf met AI aan de slag willen</dd>
-              <dt>Je houdt over</dt><dd>Werkwijzen die je morgen al gebruikt</dd>
-            </dl>
+            <p>Eén op één, in jouw tempo. We zetten AI samen in voor jouw werk. Vakwoorden leg ik uit, beloofd.</p>
           </article>
-          <article class="card reveal">
-            <span class="card-tag">Inzicht</span>
+          <article class="tile tile-soft reveal">
             <h3>AI-scan</h3>
-            <p>Ik kijk mee in je bedrijf en breng in kaart waar AI je tijd of geld bespaart. Geen dik rapport, wel een helder plan met de eerste stappen.</p>
-            <dl>
-              <dt>Voor wie</dt><dd>Ondernemers die willen weten waar ze moeten beginnen</dd>
-              <dt>Je houdt over</dt><dd>Overzicht, en een concreet plan</dd>
-            </dl>
+            <p>Ik zoek uit waar AI je tijd of geld bespaart. Geen dik rapport, wel een helder plan.</p>
           </article>
         </div>
-        <p class="note reveal">Binnenkort erbij: werk automatiseren, zodat terugkerende taken vanzelf gaan.</p>
+        <p class="note note-soon reveal">binnenkort: werk automatiseren</p>
       </div>
     </section>
 
-    <!-- 5. Werkwijze -->
-    <section class="section section-tint" aria-labelledby="werkwijze-kop">
+    <!-- Werkwijze -->
+    <section class="section" aria-labelledby="route-kop">
       <div class="wrap">
-        <p class="label reveal">Zo werk ik</p>
-        <h2 id="werkwijze-kop" class="reveal">Vier stappen, geen verrassingen.</h2>
-        <ol class="steps">
-          <li class="step reveal">
-            <span class="step-nr">01</span>
+        <h2 id="route-kop" class="reveal">Zo gaat het.</h2>
+        <ol class="route">
+          <li class="stop reveal">
             <h3>Kennismaken</h3>
-            <p>Een gratis gesprek van 30 minuten. Jij vertelt waar je tegenaan loopt, ik vertel eerlijk of ik kan helpen.</p>
+            <p>Een gratis gesprek van 30 minuten. Ik zeg eerlijk of ik je kan helpen.</p>
           </li>
-          <li class="step reveal">
-            <span class="step-nr">02</span>
-            <h3>Plan maken</h3>
-            <p>Ik zet op een rij wat er moet gebeuren, wat het kost en wat het oplevert. Vaste prijs, geen open eindjes.</p>
+          <li class="stop reveal">
+            <h3>Plannen</h3>
+            <p>Wat er moet gebeuren, wat het kost en wat het oplevert. Vaste prijs.</p>
           </li>
-          <li class="step reveal">
-            <span class="step-nr">03</span>
+          <li class="stop reveal">
             <h3>Bouwen of begeleiden</h3>
-            <p>Ik bouw de oplossing, of we zetten AI samen in. Tussendoor zie je steeds waar we staan.</p>
+            <p>Ik bouw het, of we doen het samen. Je ziet steeds waar we staan.</p>
           </li>
-          <li class="step reveal">
-            <span class="step-nr">04</span>
+          <li class="stop stop-end reveal">
             <h3>Zelf verder</h3>
-            <p>Je krijgt uitleg en een korte handleiding. Je hebt mij daarna niet nodig, maar je mag me altijd bellen.</p>
+            <p>Met uitleg en een korte handleiding. Bellen mag altijd.</p>
           </li>
         </ol>
       </div>
     </section>
 
-    <!-- 6. Werk -->
+    <!-- Werk -->
     <section class="section" id="werk" aria-labelledby="werk-kop">
       <div class="wrap">
-        <p class="label reveal">Werk</p>
-        <h2 id="werk-kop" class="reveal">Vijf jaar digitale producten, nu met AI.</h2>
-        <div class="grid-2 cases">
-          <article class="case reveal">
-            <!-- TODO: vervang door een beeld van dit project, als je het mag laten zien -->
-            <div class="case-img" role="img" aria-label="Plek voor een beeld van dit project"><span>Beeld volgt</span></div>
-            <p class="case-meta">Het Keukenmagazijn · UX/UI en marketing</p>
-            <h3>Digitale kanalen die beter werken</h3>
-            <p>Gebruikersgedrag en knelpunten geanalyseerd, en de gebruikerservaring van de digitale kanalen stap voor stap verbeterd.</p>
-          </article>
-          <article class="case reveal">
-            <div class="case-img" role="img" aria-label="Plek voor een beeld van dit project"><span>Beeld volgt</span></div>
-            <p class="case-meta">Specialist in Websites · UX/UI en assistent product owner</p>
-            <h3>Van gebruikerswens naar verbetering</h3>
-            <p>Gebruikersbehoeften vertaald naar concrete verbeteringen, en de brug geslagen tussen design, development en opdrachtgevers.</p>
-          </article>
-          <article class="case reveal">
-            <div class="case-img" role="img" aria-label="Plek voor een beeld van dit project"><span>Beeld volgt</span></div>
-            <p class="case-meta">Beyond Sports · UX/UI-design</p>
-            <h3>Digitale producten, gebruiksvriendelijk ontworpen</h3>
-            <p>Gebruikersonderzoek gedaan en digitale ervaringen ontworpen en verbeterd, in nauwe samenwerking met developers en productteams.</p>
-          </article>
-          <article class="case reveal">
-            <div class="case-img case-img-route" role="img" aria-label="Het routebeeld van deze website"></div>
-            <p class="case-meta">Eigen project · ontwerp en bouw met Claude Code</p>
+        <h2 id="werk-kop" class="reveal">Wat ik eerder deed.</h2>
+        <ul class="work">
+          <li class="work-row reveal">
+            <h3>Het Keukenmagazijn</h3>
+            <p><strong>UX/UI en marketing.</strong> De digitale kanalen verbeterd, op basis van gebruikersgedrag en knelpunten.</p>
+          </li>
+          <li class="work-row reveal">
+            <h3>Specialist in Websites</h3>
+            <p><strong>UX/UI en assistent product owner.</strong> Wensen van gebruikers vertaald naar verbeteringen, tussen design, development en klant.</p>
+          </li>
+          <li class="work-row reveal">
+            <h3>Beyond Sports</h3>
+            <p><strong>UX/UI-design.</strong> Gebruikersonderzoek gedaan en digitale producten ontworpen, samen met developers.</p>
+          </li>
+          <li class="work-row work-row-self reveal">
             <h3>Deze website</h3>
-            <p>Ontworpen en gebouwd met AI, volgens een vast designsysteem en een brief per sectie. Zo pak ik ook jouw website aan.</p>
-          </article>
-        </div>
+            <p><strong>Ontwerp en bouw.</strong> Gemaakt met Claude Code, volgens een eigen designsysteem. <span class="note note-inline">ja, echt</span></p>
+          </li>
+        </ul>
       </div>
     </section>
 
-    <!-- 7. Over -->
+    <!-- Over -->
     <section class="section" id="over" aria-labelledby="over-kop">
       <div class="wrap about">
-        <!-- TODO: vervang door je portretfoto, bijvoorbeeld <img src="danique.jpg" alt="Portret van Danique Nagel"> -->
-        <div class="portrait reveal" role="img" aria-label="Plek voor een portretfoto van Danique"><span>Foto volgt</span></div>
+        <h2 id="over-kop" class="statement reveal">AI is voor iedereen.</h2>
         <div class="about-copy">
-          <p class="label reveal">Over mij</p>
-          <h2 id="over-kop" class="reveal">Hoi, ik ben Danique.</h2>
-          <p class="reveal">Ik ben UX/UI-ontwerper, en ik werk al vijf jaar aan digitale producten. Daarvoor stond ik in de retail en de commercie, en gaf ik leiding aan een team. Ik weet dus hoe het werk op de vloer gaat, en niet alleen hoe het op een scherm hoort te gaan.</p>
-          <p class="reveal">Tegenwoordig bouw ik met AI: websites, stijlgidsen en klantportalen. Wat me opvalt is dat de techniek zelden het probleem is. Het probleem is dat niemand het rustig uitlegt. Dat doe ik wel.</p>
-          <p class="belief reveal">AI is voor iedereen. Ook voor jou, en ook als je denkt dat je er niets van snapt.</p>
+          <p class="reveal">Ik ben UX/UI-ontwerper en werk al vijf jaar aan digitale producten. Daarvoor stond ik in de retail en gaf ik leiding aan een team. Ik weet hoe het werk op de vloer gaat.</p>
+          <p class="reveal">Nu bouw ik met AI. De techniek is zelden het probleem. Het probleem is dat niemand het rustig uitlegt. Dat doe ik wel.</p>
+          <p class="signature reveal">Danique</p>
         </div>
       </div>
     </section>
 
-    <!-- 8. Kennismaking -->
+    <!-- Kennismaking -->
     <section class="section cta" id="kennismaken" aria-labelledby="cta-kop">
-      <div class="wrap cta-inner">
-        <p class="label reveal">Kennismaken</p>
-        <h2 id="cta-kop" class="reveal">Zullen we het er eens over hebben?</h2>
-        <p class="lead reveal">Een gratis kennismaking van 30 minuten, online. Geen verkooppraatje, wel een eerlijk antwoord op de vraag of AI jou kan helpen.</p>
-        <div class="actions reveal">
+      <div class="cta-outer"><div class="cta-grid">
+        <h2 id="cta-kop" class="reveal">Zullen we koffie drinken? <span class="hl">Online mag ook.</span></h2>
+        <div class="cta-side reveal">
+          <p>Een gratis kennismaking van 30 minuten. Geen verkooppraatje, wel een eerlijk antwoord op de vraag of AI jou kan helpen.</p>
           <!-- TODO: vervang # door je agendalink -->
           <a class="btn btn-primary" href="#">Plan een kennismaking</a>
+          <!-- TODO: vervang door je zakelijke mailadres -->
+          <p class="mail">Liever mailen? <a href="mailto:hallo@jouwdomein.nl">hallo@jouwdomein.nl</a></p>
         </div>
-        <!-- TODO: vervang door je zakelijke mailadres -->
-        <p class="mail reveal">Liever mailen? <a href="mailto:hallo@jouwdomein.nl">hallo@jouwdomein.nl</a></p>
-      </div>
+      </div></div>
     </section>
   </main>
 
-  <!-- 9. Footer -->
   <footer class="footer">
     <div class="wrap footer-inner">
-      <p>Danique Nagel · Noord-Holland, online door heel Nederland</p>
+      <p>Danique Nagel, online door heel Nederland</p>
       <!-- TODO: KvK-nummer en privacyverklaring toevoegen na inschrijving -->
-      <p class="footer-meta">KvK volgt · Privacyverklaring volgt</p>
+      <p>KvK volgt. Privacyverklaring volgt.</p>
     </div>
   </footer>
 
