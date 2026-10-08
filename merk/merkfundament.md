@@ -43,30 +43,44 @@ Als het merk een persoon was, dan is die:
 
 **Keuze:** een bedrijfsnaam, geen eigen naam.
 
-**Smaakprofiel**, op basis van wat wel en niet aansprak:
+**Criteria**, op basis van wat wel en niet aansprak:
 
 - Kort, één woord, zoals Notion, Figma, Arc, Slack of Loom.
-- Een bestaand woord met een draai, liefst Engels.
+- Een echte betekenis die aansluit op wat het bedrijf doet.
 - Een knipoog: een tweede laag die je later doorhebt, zoals LeftClick.
-- Een goede klank: kort, ritmisch, lekker om uit te spreken.
-- De tweede laag gaat over **maken en ambacht** en over **verbinden**.
+- Een zachte, ronde of open klank. Niet hard.
+- Engels mag, maar makkelijk uit te spreken. Niet Spaans of Zuid-Europees.
+- De verjaardagstest: je zegt aan tafel "mijn bedrijf heet ..." zonder te spellen of uit te leggen.
 - Niet te letterlijk, niet cryptisch.
 
 **Shortlist**
 
-| Naam | Betekenis | Knipoog | Karakter |
-|---|---|---|---|
-| Seam | Naad, waar twee stoffen samenkomen | "Seamless", naadloos | Rustig, verfijnd, designerig |
-| Rivet | Klinknagel, verbindt grote platen | Klein onderdeel, sterke verbinding | Stevig, speels, harde klank |
+| | Clove | Thimble |
+|---|---|---|
+| Betekenis | Kruidnagel. Klein, maar geeft het hele gerecht smaak. | Vingerhoed. Hiermee naai je zonder je te prikken. |
+| Wat het zegt over je werk | Je voegt het juiste ingrediënt toe aan een bedrijf, zonder alles om te gooien. | Je zorgt dat ondernemers AI veilig en op maat gebruiken. |
+| Persoonlijke laag | Kruidnagel, dus Nagel. | Beschermt je vingernagel. |
+| Knipoog | Klinkt bijna als Claude. | Maatwerk en het naaiatelier, dicht bij design. |
+| Metafoor voor diensten | Keuken: proeverij, recept, bereiding, op smaak brengen. | Atelier: patroon, op maat, afwerking. |
+| Mogelijke slogan | "AI, op smaak gebracht." | "AI op maat, zonder prikken." |
+| Aandachtspunt | Geen indruk wekken van een band met Anthropic. | Lastige "th"; in de VS bestaat een verzekeraar met deze naam. |
 
-**Nog te doen voor de naam**
+Advies: Clove past het best bij de merkkern en slaagt voor de verjaardagstest. Thimble is de tweede keus.
 
-- [ ] Belletjestest: zeg de naam tegen vijf mensen. Kunnen ze hem spellen? Wat denken ze dat het bedrijf doet?
-- [ ] Domeinnaam checken bij een registrar. Varianten: seamstudio.nl, rivet.design, hellorivet.nl.
+**Testen, voor beide namen**
+
+- [ ] Belletjestest: zeg de naam tegen vijf mensen, het liefst ondernemers. Kunnen ze hem spellen? Wat denken ze dat het bedrijf doet?
+- [ ] Domeinnaam: check bij een registrar. Varianten: studioclove.nl, clove.design, hellothimble.nl.
 - [ ] KvK-handelsnamen checken op kvk.nl.
-- [ ] Benelux-merkenregister checken op boip.int, vooral in software en design.
+- [ ] Benelux-merkenregister checken op boip.int, vooral in software, design en advies.
 
-Afgevallen richtingen: letterlijke computerhandelingen (Autofill, Spacebar, Hotkey) waren te letterlijk. Metaforen zoals Lightswitch en Little Lever pasten niet bij de persoon.
+**Afgevallen richtingen**
+
+- Letterlijke computerhandelingen, zoals Autofill, Spacebar en Hotkey: te letterlijk.
+- Metaforen zoals Lightswitch en Little Lever: pasten niet bij de persoon.
+- Ambachtswoorden met harde klank, zoals Seam, Rivet, Tack en Hex: te hard.
+- Zuid-Europese woorden, zoals Mano, Manu en Ola: te Spaans.
+- "Nique", uit Danique: is in het Frans een grof scheldwoord.
 
 ---
 
