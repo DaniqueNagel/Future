@@ -9,5 +9,6 @@ Deze repo is mijn werkplek voor het traject "voor mezelf beginnen".
 | [plan/03-ai-leerpad.md](plan/03-ai-leerpad.md) | 90-dagen leerpad om praktisch in AI in te stromen, zonder technische achtergrond |
 | [merk/merkfundament.md](merk/merkfundament.md) | Merkkern, persoonlijkheid, naam en tone of voice van mijn eigen bedrijf |
 | [merk/naamideeen.md](merk/naamideeen.md) | Dagelijkse naamideeën, ronde voor ronde |
+| [website/](website/) | Mijn website: designsysteem, brief per sectie en de code |
 
 Werkwijze: het werkboek invullen, dan het plan concreet maken, dan elke twee weken bijwerken.
