@@ -15,14 +15,11 @@
   var scrub = document.querySelector("video.scrub");
   var loop = document.querySelector("video.loop");
   watchVideo(scrub); watchVideo(loop);
-
-  // To-do-lijst
-  var todo = document.querySelector(".todo");
-  var items = todo ? todo.querySelectorAll(".todo-list li") : [];
-  function finishTodo() { items.forEach(function (li) { li.classList.add("done"); }); if (todo) todo.classList.add("complete"); }
+  // Toon meteen het eerste beeld van de scrollvideo, ook voordat je scrolt
+  function showFirstFrame() { if (scrub.currentTime === 0) scrub.currentTime = 0.001; }
+  if (scrub) { if (scrub.readyState >= 2) showFirstFrame(); else scrub.addEventListener("loadeddata", showFirstFrame); }
 
   if (reduce || !("IntersectionObserver" in window)) {
-    finishTodo();
     if (scrub) scrub.addEventListener("loadedmetadata", function () { scrub.currentTime = Math.max(0, scrub.duration - 0.05); });
     return;
   }
@@ -64,7 +61,7 @@
   }
 
   // Secties verschijnen
-  document.querySelectorAll(".bento, .route, .work, .about-copy").forEach(function (group) {
+  document.querySelectorAll(".bento, .steps, .work, .about-copy").forEach(function (group) {
     group.querySelectorAll(".reveal").forEach(function (el, i) { el.style.setProperty("--d", i * 90 + "ms"); });
   });
   var io = new IntersectionObserver(function (entries) {
@@ -75,14 +72,4 @@
     else io.observe(el);
   });
 
-  // To-do-lijst streept zichzelf door
-  if (todo) {
-    var tio = new IntersectionObserver(function (entries) {
-      if (!entries[0].isIntersecting) return;
-      tio.disconnect();
-      items.forEach(function (li, i) { setTimeout(function () { li.classList.add("done"); }, 300 + i * 350); });
-      setTimeout(function () { todo.classList.add("complete"); }, 300 + items.length * 350 + 300);
-    }, { threshold: 0.5 });
-    tio.observe(todo);
-  }
 })();

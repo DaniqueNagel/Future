@@ -1,23 +1,40 @@
-# Brief: videoversie
+# Brief: website Danique Nagel, videoversie
 
-*Laag 2 van 3: de opbouw. Volgt `../website/BRIEF.md`, met deze verschillen.*
+*Laag 2 van 3: de opbouw. Bouw nooit een sectie die hier niet staat.*
 
-## Hero, vervangen door een scrollvideo
+## Doel
 
-Video: de laptop die uit elkaar valt, zie `PROMPTS.md`.
+Een ondernemer ziet binnen tien seconden wie Danique is, dat ze AI begrijpelijk maakt, en plant een kennismaking. Label van de hoofdactie, overal hetzelfde: "Plan een kennismaking".
 
-1. **Kop:** AI voelt als een gesloten doos. **Tekst:** Ik ben Danique. Ik haal hem voor je open.
-2. **Kop:** Ik haal hem voor je uit elkaar. **Tekst:** Stukje voor stukje, in gewone taal. Zodat je snapt wat AI voor jouw bedrijf kan doen.
-3. **Kop:** En daarna bouw ik het voor je. **Tekst:** Een website, een klantportaal of een plan, waar je zelf mee verder kunt. **Knoppen:** "Plan een kennismaking" en "Bekijk mijn werk".
+## Secties
 
-## Kennismaking, met video
+### 1. Navigatie
+Naam links, links naar Diensten, Werk en Over, en de knop "Plan een kennismaking". Een lijn van 1 px eronder. Op mobiel alleen naam en knop.
 
-Naast de kop en de knop staat het kompas dat ronddraait, in een lus, zonder geluid.
+### 2. Hero, een scrollvideo
+Video: de laptop die uit elkaar valt, zie `PROMPTS.md`. Tekst links, video rechts. Drie momenten:
+1. **AI voelt als een gesloten doos.** Ik ben Danique. Ik haal hem voor je open.
+2. **Ik haal hem voor je uit elkaar.** Stukje voor stukje, in gewone taal.
+3. **En daarna bouw ik het voor je.** Een website, een klantportaal of een plan, waar je zelf mee verder kunt. Met de knoppen "Plan een kennismaking" en "Bekijk mijn werk".
 
-## Over
+### 3. Diensten
+Kop: Wat ik doe. Drie vlakken in een asymmetrisch raster: één breed vlak voor websites en klantportalen, twee smalle voor AI-begeleiding en de AI-scan. Onder de vlakken een regel: werk automatiseren komt binnenkort.
 
-De polaroid met Danique's foto staat hier, naast de uitspraak "AI is voor iedereen". In de hero is geen plek meer voor de foto.
+### 4. Werkwijze
+Kop: Zo werk ik. Vier kolommen, gescheiden door een lijn. Kennismaken, plannen, bouwen of begeleiden, zelf verder. De laatste met een klein label "Het doel".
 
-## Overige secties
+### 5. Werk
+Kop: Eerder werk. Een lijst met lijnen ertussen: Het Keukenmagazijn, Specialist in Websites, Beyond Sports, en deze website. Per regel de naam, de rol in mono, en één zin.
 
-Herkenning, diensten, werkwijze en werk zijn gelijk aan de gewone site.
+### 6. Over
+Foto in zwart-wit links, recht en strak. Rechts de kop "AI is voor iedereen." en twee korte alinea's.
+
+### 7. Kennismaking
+Kop: Zullen we kennismaken? Korte uitleg, de knop en een mailadres. Rechts het draaiende kompas.
+
+### 8. Footer
+Naam, en placeholders voor KvK en privacyverklaring.
+
+## Placeholders
+
+Gemarkeerd met `TODO` in `index.html`: agendalink, zakelijk mailadres, scherpere portretfoto, KvK en privacyverklaring. De video's maak je met `PROMPTS.md`.
