@@ -28,3 +28,27 @@ Zet een sterretje achter een naam die je aanspreekt, of geef je favorieten door 
 | Pinpoint | Precies aanwijzen. | Pin, dus Nagel, plus het punt waar je naartoe wilt. |
 
 **Top drie:** Navi, Wayfind en Pin.
+
+## 10 oktober 2026
+
+**Invalshoek:** vaktaal uit UX en design met een gewone betekenis. Jouw vak als knipoog.
+
+| Naam | Betekenis | Knipoog |
+|---|---|---|
+| Tooltip | Het kleine uitlegvenster dat verschijnt als je ergens met je muis op staat. | Uitleg op het moment dat je hem nodig hebt. Precies wat jij doet. |
+| Onboard | Aan boord nemen. | Onboarding is in UX een nieuwe gebruiker wegwijs maken. |
+| Prism | Een prisma. | Splitst wit licht op in kleuren, zoals jij ingewikkelde AI opsplitst in begrijpelijke stukjes. |
+| Baseline | De lijn waarop letters staan. | Ook een nulmeting: waar sta je nu? Dat is je AI-scan. |
+| Hover | Zweven. | De toestand van een knop als je erboven hangt. Even boven het probleem hangen geeft overzicht. |
+| Focus | Aandacht. | In UX de toestand van het element waar je mee bezig bent. |
+| Lens | Een lens. | Scherpstellen op wat AI voor jouw bedrijf kan. |
+| Margin | Witruimte rond een ontwerp. | Ook de marge op je omzet. Ruimte, en meer winst. |
+| Ratio | Verhouding. | In het Nederlands ook het verstand. Ontwerpers kennen de aspect ratio. |
+| Tint | Een lichte kleur. | Een bedrijf een tintje geven, zonder alles over te schilderen. |
+| Hue | Kleurtoon. | Klinkt als "hoe", de vraag die jij beantwoordt. Let op: Philips Hue is een groot merk. |
+| Iris | Het gekleurde deel van je oog. | In een camera het diafragma: bepaalt hoeveel licht en scherpte je krijgt. |
+| Toggle | Een schakelaar. | AI aan of uit, en schakelen tussen oud en nieuw werken. |
+| Accent | Nadruk, en een accentkleur. | Het accent leggen op wat ertoe doet. |
+| Kerning | De ruimte tussen twee letters. | Voor ontwerpers het toppunt van precisie. |
+
+**Top drie:** Tooltip, Onboard en Prism.
