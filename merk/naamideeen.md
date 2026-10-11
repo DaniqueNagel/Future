@@ -52,3 +52,27 @@ Zet een sterretje achter een naam die je aanspreekt, of geef je favorieten door 
 | Kerning | De ruimte tussen twee letters. | Voor ontwerpers het toppunt van precisie. |
 
 **Top drie:** Tooltip, Onboard en Prism.
+
+## 11 oktober 2026
+
+**Invalshoek:** volwassen Nederlandse woorden van één of twee lettergrepen, vaak met een knipoog naar water en Noord-Holland.
+
+| Naam | Betekenis | Knipoog |
+|---|---|---|
+| Tij | Eb en vloed. | "Het tij keren", en met het tij meegaan in plaats van ertegenin. AI is het tij. |
+| Peil | Het niveau, zoals het waterpeil. | Je kennis "op peil" brengen, en "peilen" is meten, zoals je AI-scan. |
+| Haven | Een veilige plek om aan te meren. | In het Engels betekent "safe haven" hetzelfde: een veilige plek om AI uit te proberen. |
+| Kier | Een deur die op een kier staat. | De gesloten doos van AI een stukje open, net genoeg om te zien wat erin zit. |
+| Helder | Duidelijk. | Een van je merkwaarden, en Den Helder ligt in Noord-Holland. |
+| Sleutel | Waar je een slot mee opent. | "De sleutel tot", en in de techniek is een API-sleutel de toegang tot een systeem. |
+| Kade | Waar schepen aanmeren en vertrekken. | Een vast punt om vanaf te vertrekken. |
+| Licht | Verlichting, en niet zwaar. | AI maakt werk lichter, en jij brengt het aan het licht. |
+| Wiel | Een wiel. | "Je hoeft het wiel niet opnieuw uit te vinden": de tools bestaan al, jij helpt ze gebruiken. |
+| Stip | Een punt. | "Een stip op de horizon": het doel waar je naartoe werkt. Ook een pixel. |
+| Wending | Een draai. | Je bedrijf een nieuwe wending geven. |
+| Kantel | Kantelen, omslaan. | Het kantelpunt waarop een bedrijf anders gaat werken. |
+| Raster | Een patroon van lijnen. | Het ontwerpraster, en orde in de chaos. |
+| Kiem | Het begin van iets dat groeit. | Elk idee begint als een kiem. |
+| Uitzicht | Wat je ziet als je om je heen kijkt. | Ook vooruitzicht: wat er voor jouw bedrijf mogelijk is. |
+
+**Top drie:** Tij, Peil en Haven.
