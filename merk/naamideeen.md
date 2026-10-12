@@ -76,3 +76,27 @@ Zet een sterretje achter een naam die je aanspreekt, of geef je favorieten door 
 | Uitzicht | Wat je ziet als je om je heen kijkt. | Ook vooruitzicht: wat er voor jouw bedrijf mogelijk is. |
 
 **Top drie:** Tij, Peil en Haven.
+
+## 12 oktober 2026
+
+**Invalshoek:** een kort Nederlands woord met een regel eronder. De naam is kort, de regel vertelt wat je doet.
+
+| Naam | Regel eronder | Betekenis en knipoog |
+|---|---|---|
+| Klaar | Klare taal over AI | "Klare taal" is je tone of voice. Klaar betekent ook af: het werkt. |
+| Rust | AI met rust en overzicht | Een van je merkwaarden. Ontwikkelaars kennen Rust als programmeertaal. |
+| Mens | AI, met de mens voorop | "Human in the loop": de mens houdt de regie over AI. |
+| Gewoon | AI. Doe maar gewoon. | Nuchter en Nederlands, met een knipoog naar "doe maar gewoon". |
+| Tempo | AI in jouw tempo | Zo beschrijf je je begeleiding op je website al. |
+| Open | De doos van AI, open | Toegankelijk, open source, en de gesloten doos uit je video. |
+| Houvast | Houvast in AI | Iets om je aan vast te houden in een snel veranderend veld. |
+| Vraagbaak | Je vraagbaak voor AI | De persoon bij wie je met elke vraag terecht kunt. Er zit "baak" in, van baken. |
+| Eenvoud | AI, eenvoudig gemaakt | Je kern: ingewikkeld wordt simpel. |
+| Lucht | Meer lucht in je werkweek | Lucht geven: AI neemt werk uit handen. |
+| Kompas | Richting in AI | Je helpt mensen de weg vinden. |
+| Handig | Handig met AI | Praktisch, en iemand die handig is met iets. |
+| Basis | De basis op orde | Eerst de basis, dan de rest. Ook "database". |
+| Ruimte | Ruimte voor wat ertoe doet | AI maakt tijd vrij. Ontwerpers denken in witruimte. |
+| Kalm | AI zonder stress | Rust in een onderwerp dat veel mensen nerveus maakt. |
+
+**Top drie:** Klaar, Rust en Mens.
