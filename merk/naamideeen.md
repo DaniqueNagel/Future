@@ -100,3 +100,27 @@ Zet een sterretje achter een naam die je aanspreekt, of geef je favorieten door 
 | Kalm | AI zonder stress | Rust in een onderwerp dat veel mensen nerveus maakt. |
 
 **Top drie:** Klaar, Rust en Mens.
+
+## 13 oktober 2026
+
+**Invalshoek:** woorden uit de wereld van AI die ook een gewone betekenis hebben.
+
+| Naam | Betekenis | Knipoog |
+|---|---|---|
+| Align | Op één lijn brengen. | Alignment is het vakgebied dat zorgt dat AI doet wat mensen bedoelen. En het woord begint met de letters van AI. |
+| Sense | Zin, gevoel, logica. | "AI that makes sense": AI die je snapt. |
+| Fine | Goed, prima. | Klinkt als het Nederlandse "fijn". En fine-tuning is AI bijstellen voor één specifieke taak. |
+| Tune | Afstemmen, zoals een instrument. | AI afstemmen op jouw bedrijf. |
+| Embed | Inbedden. | AI inbedden in je werk. Een embedding is ook hoe AI de betekenis van woorden vastlegt. |
+| Ground | Grond. | Met beide benen op de grond, nuchter. Grounding is AI vastzetten aan echte feiten. |
+| Latent | Verborgen, nog niet zichtbaar. | Het verborgen potentieel van je bedrijf. AI werkt in een "latent space". |
+| Reason | Reden, verstand. | Nieuwe AI-modellen "redeneren" voordat ze antwoorden. |
+| Infer | Afleiden. | Inference is het moment dat AI een antwoord geeft. |
+| Recall | Terughalen, herinneren. | Ook een maat voor hoe goed AI vindt wat het zoekt. |
+| Sample | Een proefje. | Klein beginnen met een pilot. Sampling is hoe AI zijn volgende woord kiest. |
+| Query | Een vraag. | Elke vraag aan een database of AI is een query. |
+| Agent | Iemand die namens jou handelt. | AI-agents voeren zelf taken uit. In het Nederlands ook een agent die je de weg wijst. |
+| Learn | Leren. | Machine learning, en jij leert ondernemers werken met AI. |
+| Signal | Een signaal. | Het signaal uit de ruis halen: wat AI echt voor je kan doen. |
+
+**Top drie:** Align, Sense en Fine.
