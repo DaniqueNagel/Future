@@ -124,3 +124,27 @@ Zet een sterretje achter een naam die je aanspreekt, of geef je favorieten door 
 | Signal | Een signaal. | Het signaal uit de ruis halen: wat AI echt voor je kan doen. |
 
 **Top drie:** Align, Sense en Fine.
+
+## 14 oktober 2026
+
+**Invalshoek:** zachte Engelse woorden rond helderheid en gemak, die Nederlanders moeiteloos uitspreken.
+
+| Naam | Betekenis | Knipoog |
+|---|---|---|
+| Hello | Hallo. | "Hello, World!" is het eerste programma dat iedereen ooit schrijft. De eerste stap, voor iedereen. |
+| Plain | Eenvoudig, zonder franje. | "Plain language" is klare taal. "Plain text" is tekst zonder opmaak. |
+| Unfold | Ontvouwen. | Stap voor stap uitleggen, en de gesloten doos uit je video die openvouwt. |
+| Breeze | Een bries. | "It's a breeze": het is een eitje. |
+| Gentle | Zacht, vriendelijk. | "A gentle introduction" is hoe goede tutorials beginnen. |
+| Primer | Een korte inleiding. | Ook de grondlaag onder verf: de basis waar alles op rust. |
+| Lucid | Helder van geest. | Helder en nuchter, je merkwaarden. |
+| Ease | Gemak. | "At ease": op je gemak, ook met AI. |
+| Clear | Helder. | In software maak je iets "clear" om opnieuw te beginnen. |
+| Tidy | Opgeruimd. | Orde in de chaos. Ontwikkelaars kennen "tidy data". |
+| Common | Gewoon, gedeeld. | "Common sense": gezond verstand. AI voor iedereen. |
+| Daylight | Daglicht. | Iets aan het daglicht brengen: laten zien hoe het werkt. |
+| Decode | Ontcijferen. | Jij ontcijfert AI voor ondernemers. |
+| Glow | Gloed. | Het lichtje dat aangaat als je het snapt. |
+| Dawn | Dageraad. | Het begin van iets nieuws. |
+
+**Top drie:** Hello, Plain en Unfold.
