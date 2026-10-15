@@ -148,3 +148,27 @@ Zet een sterretje achter een naam die je aanspreekt, of geef je favorieten door 
 | Dawn | Dageraad. | Het begin van iets nieuws. |
 
 **Top drie:** Hello, Plain en Unfold.
+
+## 15 oktober 2026
+
+**Invalshoek:** korte woorden uit het Scandinavisch, Latijn en andere talen, die in het Nederlands makkelijk klinken. Geen Spaanse of Zuid-Europese klank.
+
+| Naam | Betekenis | Knipoog |
+|---|---|---|
+| Vind | Wind, in het Noors en Deens. | In het Nederlands: "vind je weg". |
+| Via | Latijn voor "langs de weg". | Iedereen gebruikt het: de weg via AI. |
+| Iter | Latijn voor reis. | Itereren is stap voor stap verbeteren, zoals ontwerpers en ontwikkelaars werken. |
+| Ro | Rust, in het Noors. | Twee letters, en een van je merkwaarden. |
+| Lys | Licht, in het Noors en Deens. | Licht op een onderwerp dat donker lijkt. |
+| Lett | Licht en makkelijk, in het Noors. | AI maakt werk lichter. |
+| Sti | Pad, in het Noors. | Het pad dat je samen loopt. |
+| Vei | Weg, in het Noors. Je zegt "vai". | De weg vinden. |
+| Lun | Warm en knus, in het Deens. | Een warme plek om AI te leren. |
+| Kaizen | Japans voor continu verbeteren. | Een bekende term in bedrijven: kleine stappen, elke dag. |
+| Fri | Vrij, in de Scandinavische talen. | Vrijheid, de reden dat je voor jezelf begint. |
+| Tid | Tijd, in de Scandinavische talen. | AI geeft je tijd terug. |
+| Hav | Zee, in de Scandinavische talen. | Een knipoog naar de Noord-Hollandse kust. |
+| Clavis | Latijn voor sleutel. | De sleutel tot AI, en een API-sleutel. |
+| Enkel | Eenvoudig, in het Zweeds en Noors. | In het Nederlands: "enkel dat wat nodig is". |
+
+**Top drie:** Vind, Via en Iter.
