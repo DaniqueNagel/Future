@@ -172,3 +172,27 @@ Zet een sterretje achter een naam die je aanspreekt, of geef je favorieten door 
 | Enkel | Eenvoudig, in het Zweeds en Noors. | In het Nederlands: "enkel dat wat nodig is". |
 
 **Top drie:** Vind, Via en Iter.
+
+## 16 oktober 2026
+
+**Invalshoek:** woorden die zowel in jouw ontwerpvak als in AI iets betekenen. Jij komt uit design en gaat naar AI, en de naam laat beide horen.
+
+| Naam | Betekenis | Knipoog |
+|---|---|---|
+| Kern | Kerning: de ruimte tussen letters. | In het Nederlands "de kern", en in techniek de kernel. Je haalt de kern uit AI. |
+| Node | Een ankerpunt in een vectorpad. | Ook een blokje in n8n en een knooppunt in een neuraal netwerk. Drie vakken in één woord. |
+| Token | Een design token: een vaste afspraak over kleur of maat. | AI leest tekst in tokens. En "a token of": een blijk van vertrouwen. |
+| Layer | Een laag in Figma of Photoshop. | Een neuraal netwerk bestaat ook uit lagen. Je legt AI laag voor laag uit. |
+| Blend | Een overvloeimodus in ontwerpsoftware. | Mens en AI gemengd, zonder dat het ene het andere overschrijft. |
+| Path | Een vectorpad. | Ook een pad of weg, en een bestandspad. Je helpt mensen hun pad vinden. |
+| Canvas | Het tekenvlak waarop je ontwerpt. | Ook de schrijfomgeving in ChatGPT en het Business Model Canvas. |
+| Frame | Een frame in Figma. | Een probleem goed "framen" is het halve werk, ook bij een prompt. |
+| Proof | Een drukproef: de check voor het echt gedrukt wordt. | Proof of concept: eerst laten zien dat het werkt. |
+| Vector | Een vectorbeeld, scherp op elke maat. | AI slaat betekenis op als vectoren. Ook: een richting. |
+| Anchor | Een ankerpunt of een anker op een webpagina. | Houvast in een snel veranderend vak. |
+| Grid | Het raster onder elk goed ontwerp. | Structuur en overzicht, een van je merkwaarden. |
+| Draft | Een eerste schets. | AI maakt de eerste versie, jij maakt hem af. |
+| Pixel | De kleinste bouwsteen van een scherm. | Je let op details, en je begint klein. |
+| Lens | Een lens in fotografie. | Je kijkt door een andere lens naar werk. Ook Google Lens: AI die ziet. |
+
+**Top drie:** Kern, Node en Layer.
