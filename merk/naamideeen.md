@@ -193,6 +193,6 @@ Zet een sterretje achter een naam die je aanspreekt, of geef je favorieten door 
 | Grid | Het raster onder elk goed ontwerp. | Structuur en overzicht, een van je merkwaarden. |
 | Draft | Een eerste schets. | AI maakt de eerste versie, jij maakt hem af. |
 | Pixel | De kleinste bouwsteen van een scherm. | Je let op details, en je begint klein. |
-| Lens | Een lens in fotografie. | Je kijkt door een andere lens naar werk. Ook Google Lens: AI die ziet. |
+| Mode | Een weergave, zoals dark mode. | AI-tools werken ook in modes, zoals agent mode. En "in de modus" komen: klaar om te beginnen. |
 
 **Top drie:** Kern, Node en Layer.
