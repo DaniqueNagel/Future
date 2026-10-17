@@ -196,3 +196,27 @@ Zet een sterretje achter een naam die je aanspreekt, of geef je favorieten door 
 | Mode | Een weergave, zoals dark mode. | AI-tools werken ook in modes, zoals agent mode. En "in de modus" komen: klaar om te beginnen. |
 
 **Top drie:** Kern, Node en Layer.
+
+## 17 oktober 2026
+
+**Invalshoek:** sterren en de hemel. Vroeger vonden mensen hun weg op de sterren, nu helpt een gids ze door AI.
+
+| Naam | Betekenis | Knipoog |
+|---|---|---|
+| Polar | De Poolster, het vaste punt waarop zeelui stuurden. | Ook "polar" als in tegenpolen: mens en machine. |
+| Lode | Van lodestar: de leidster. | Een lode is ook een goudader, iets waardevols dat je vindt. |
+| Nova | Een ster die ineens oplicht. | Het moment dat AI voor iemand gaat werken. |
+| Orbit | Een baan rond een planeet. | Je blijft in de buurt: doorlopende hulp na de start. |
+| Aster | Grieks voor ster, en een bloem. | Zacht en rond van klank, met een asterisk (*) als knipoog: de voetnoot die alles uitlegt. |
+| Zenith | Het hoogste punt aan de hemel. | Het beste uit jezelf halen met AI. |
+| Lumen | De eenheid van licht. | Licht op een onderwerp dat donker lijkt. |
+| Halo | Een lichtkring om de zon of maan. | Ook de "halo-effect": een goede eerste indruk. |
+| Beam | Een lichtstraal. | Een gerichte bundel: je wijst precies aan waar AI helpt. |
+| Comet | Een komeet met een lichtende staart. | Snel en opvallend, en je laat een spoor achter. |
+| Lyra | Een sterrenbeeld, de lier. | Zacht en muzikaal, en Vega staat erin, een van de helderste sterren. |
+| Ster | Een ster. | Kort en Nederlands. Een ster geef je ook voor goed werk. |
+| Leid | Van leidster. | "Ik leid je erdoor", zonder de leider te spelen: het is jouw weg. |
+| Spark | Een vonk. | "Sparks of AGI" is een bekend AI-onderzoek. De vonk die het idee laat ontbranden. |
+| Kosmos | Het heelal, en Grieks voor orde. | Uit chaos wordt orde: overzicht in een groot, onbekend gebied. |
+
+**Top drie:** Lode, Polar en Lumen.
