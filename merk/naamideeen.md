@@ -220,3 +220,27 @@ Zet een sterretje achter een naam die je aanspreekt, of geef je favorieten door 
 | Kosmos | Het heelal, en Grieks voor orde. | Uit chaos wordt orde: overzicht in een groot, onbekend gebied. |
 
 **Top drie:** Lode, Polar en Lumen.
+
+## 18 oktober 2026
+
+**Invalshoek:** muziek. Woorden uit de muziek met een tweede betekenis in werk of techniek. Samen spelen, op de maat, in harmonie met AI.
+
+| Naam | Betekenis | Knipoog |
+|---|---|---|
+| Cue | Het teken voor een muzikant om in te vallen. | Klinkt als "queue", een wachtrij in software. Jij geeft het seintje wanneer AI aan de beurt is. |
+| Duet | Twee die samen spelen. | Jij en de klant, of mens en AI. Je werkt het liefst met één sparringpartner. |
+| Maat | De maat in muziek. | Ook "een maatje" en "op maat": AI op maat, met iemand naast je. |
+| Sync | Synchroon spelen. | Ook bestanden en systemen synchroniseren: alles loopt gelijk op. |
+| Solo | Alleen spelen. | Voor zzp'ers en solo-ondernemers, en je bent zelf solo begonnen. Let op: heel algemeen woord. |
+| Remix | Een bestaand nummer opnieuw mixen. | Je werk niet vervangen, maar opnieuw mixen met AI. |
+| Pitch | Toonhoogte. | Ook een pitch voor een klant, en het juiste toontje treffen. |
+| Groove | Het ritme dat lekker loopt. | "In de groove komen": als het werk vanzelf gaat. |
+| Note | Een noot. | Ook een notitie. Rustig en kort, een notitie die je bijblijft. |
+| Bridge | Het stuk dat twee delen van een nummer verbindt. | Een brug tussen mensen en techniek. In software verbindt een bridge twee systemen. |
+| Key | De toonsoort. | Ook een sleutel en een API-key. De sleutel tot AI, in jouw toonsoort. |
+| Encore | Een toegift. | Klanten die terugkomen voor meer. |
+| Toon | De toon van muziek en tekst. | "De toon zetten", en tone of voice: jouw vak als ontwerper. |
+| Intro | Het begin van een nummer. | Een intro in AI: de eerste kennismaking, zonder drempel. |
+| Riff | Een kort, herkenbaar muziekstukje. | Een kort idee waar je op verder bouwt, zoals een goede prompt. |
+
+**Top drie:** Cue, Duet en Maat.
