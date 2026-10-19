@@ -244,3 +244,27 @@ Zet een sterretje achter een naam die je aanspreekt, of geef je favorieten door 
 | Riff | Een kort, herkenbaar muziekstukje. | Een kort idee waar je op verder bouwt, zoals een goede prompt. |
 
 **Top drie:** Cue, Duet en Maat.
+
+## 19 oktober 2026
+
+**Invalshoek:** de tuin en groei. Veel woorden uit software komen uit de natuur: bomen, takken en wortels. Klein beginnen en laten groeien.
+
+| Naam | Betekenis | Knipoog |
+|---|---|---|
+| Branch | Een tak. | In GitHub werk je op een branch: een veilige zijtak om iets uit te proberen. |
+| Root | Een wortel. | Root is de hoogste toegang in een systeem, en "de root" is de basis van alles. |
+| Seed | Een zaadje. | In AI bepaalt een seed waar een model begint. Jij plant het eerste idee. |
+| Tree | Een boom. | Data en websites zijn opgebouwd als een boom. Overzicht van stam tot blad. |
+| Prune | Snoeien. | AI-modellen worden ook gesnoeid om sneller te werken. Jij haalt weg wat niet nodig is. |
+| Leaf | Een blad. | In code is een leaf het eindpunt van een boom: waar het resultaat zit. |
+| Bloom | Bloei. | Een bloom filter is een slimme zoektechniek. Jouw klant komt tot bloei. |
+| Field | Een veld of akker. | In een formulier of database is een field een invulveld. Ook: jouw vakgebied. |
+| Stek | Een stekje dat wortel schiet. | "Je stek vinden": een plek waar je je thuis voelt, ook met AI. |
+| Tuin | Een tuin. | Een eigen plek waar dingen groeien. Kort, Nederlands en warm. |
+| Oogst | De opbrengst. | Wat AI je oplevert: tijd, rust en overzicht. |
+| Moss | Mos. | Zacht en rustig. Groeit langzaam en blijft. |
+| Fern | Een varen. | Een varen is een natuurlijke fractal: hetzelfde patroon op elke schaal, zoals goede automatisering. |
+| Ivy | Klimop. | Groeit overal tegenop. Ook een bekende meisjesnaam: persoonlijk, zoals je wilde. |
+| Grow | Groeien. | Groeien met AI, in je eigen tempo. Let op: heel algemeen woord. |
+
+**Top drie:** Branch, Root en Stek.
