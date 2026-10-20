@@ -268,3 +268,27 @@ Zet een sterretje achter een naam die je aanspreekt, of geef je favorieten door 
 | Grow | Groeien. | Groeien met AI, in je eigen tempo. Let op: heel algemeen woord. |
 
 **Top drie:** Branch, Root en Stek.
+
+## 20 oktober 2026
+
+**Invalshoek:** reizen en overstappen. Jij brengt mensen van de oude manier van werken naar de nieuwe, en veel reiswoorden betekenen ook iets in software.
+
+| Naam | Betekenis | Knipoog |
+|---|---|---|
+| Pont | Een pont brengt je naar de overkant. | Je hoeft niet zelf te zwemmen: jij brengt mensen over naar AI. In het Frans betekent het brug. |
+| Steiger | Een aanlegplaats, en een bouwsteiger. | Ontwikkelaars "scaffolden" een project: een steiger waarop je verder bouwt. |
+| Rail | Een rails. | Guardrails houden AI veilig binnen de lijnen. Ook Ruby on Rails, een bekend webframework. |
+| Map | Een landkaart. | In het Nederlands ook een map met bestanden, en in code een veelgebruikte functie. |
+| Lift | Een lift, of een lift krijgen. | "Iemand een lift geven": je neemt ze mee. In marketing is lift de groei die je meet. |
+| Gate | Een gate op het vliegveld. | Een gateway verbindt systemen. Je staat klaar bij de gate naar AI. |
+| Track | Een spoor of route. | "On track", en track changes: bijhouden wat er verandert. |
+| Ticket | Een kaartje. | In IT is een ticket een hulpvraag die je oplost. |
+| Halte | Een tussenstop. | Even stilstaan voor je verder gaat. "Halt" is ook een commando dat een programma stopt. |
+| Veer | Een veerpont. | Ook een veer: licht, en verend. Let op: in het Engels betekent veer "afwijken". |
+| Pass | Een boardingpass. | Toegang tot de volgende stap. In code is een pass één ronde door je data. |
+| Ferry | Een veerboot. | Zachte klank. Je zet mensen over, rustig en veilig. |
+| Transit | Onderweg zijn. | Een tussenfase: niet meer de oude manier, nog niet helemaal de nieuwe. |
+| Sail | Zeilen. | "Set sail": op weg gaan. AI is de wind, jij houdt het roer. |
+| Shuttle | Een pendeldienst. | Je pendelt heen en weer tussen mens en techniek, zodat de klant dat niet hoeft. |
+
+**Top drie:** Pont, Steiger en Rail.
