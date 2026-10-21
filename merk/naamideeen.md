@@ -292,3 +292,27 @@ Zet een sterretje achter een naam die je aanspreekt, of geef je favorieten door 
 | Shuttle | Een pendeldienst. | Je pendelt heen en weer tussen mens en techniek, zodat de klant dat niet hoeft. |
 
 **Top drie:** Pont, Steiger en Rail.
+
+## 21 oktober 2026
+
+**Invalshoek:** de keuken. Een recept is eigenlijk een workflow: ingrediënten, stappen, resultaat. Veel keukenwoorden hebben ook een betekenis in software en design.
+
+| Naam | Betekenis | Knipoog |
+|---|---|---|
+| Crumb | Een kruimel. | Breadcrumbs zijn het kruimelpad op een website: zo vind je je weg terug. |
+| Brew | Brouwen, zoals koffie of thee. | Homebrew installeert software op een Mac. Iets moois laten trekken. |
+| Dash | Een scheutje. | Ook een dashboard: alles in één oogopslag. |
+| Toast | Een geroosterde boterham, of een toost. | In apps is een toast een kort meldingetje onderin je scherm. Proosten op wat werkt. |
+| Menu | Een menukaart. | Elke app heeft een menu. Je kiest zelf wat je wilt. |
+| Taste | Smaak. | Smaak is wat AI mist en wat jij als ontwerper meebrengt. |
+| Batch | Een baksel in één keer. | In software verwerk je taken in batches: veel werk in één keer. |
+| Serve | Opdienen. | Een server dient websites op. Jij dient AI op een presenteerblaadje op. |
+| Zest | Citroenschil, het frisse randje. | In het Engels ook pit en enthousiasme. |
+| Spice | Een specerij. | Een beetje pit in je werk. Let op: Spice Girls. |
+| Pinch | Een snufje. | Precies genoeg AI, niet te veel. Pinch-to-zoom op je telefoon. |
+| Salt | Zout. | In beveiliging maakt een salt wachtwoorden veiliger. Ook: het zout in de pap. |
+| Stir | Roeren. | Even roeren in hoe je werkt, zonder alles om te gooien. |
+| Kruid | Een kruid. | Kruidnagel, dus Nagel. Een klein beetje maakt het verschil. |
+| Mix | Mengen. | Mens en AI in de juiste verhouding. Let op: heel algemeen woord. |
+
+**Top drie:** Crumb, Brew en Salt.
