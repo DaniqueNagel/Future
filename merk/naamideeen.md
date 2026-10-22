@@ -316,3 +316,27 @@ Zet een sterretje achter een naam die je aanspreekt, of geef je favorieten door 
 | Mix | Mengen. | Mens en AI in de juiste verhouding. Let op: heel algemeen woord. |
 
 **Top drie:** Crumb, Brew en Salt.
+
+## 22 oktober 2026
+
+**Invalshoek:** het huis. Je wilt vanuit huis werken, en veel woorden uit het huis betekenen ook iets op een scherm: vensters, mappen, het startscherm.
+
+| Naam | Betekenis | Knipoog |
+|---|---|---|
+| Raam | Een raam. | Op je computer werk je in vensters. Jij opent een raam naar AI. |
+| Nook | Een knus hoekje. | Een rustige plek om AI te leren, zonder drukte. |
+| Loft | Een open zolderruimte. | Ruimte en licht. In design betekent loft ook een vorm die je in 3D optrekt. |
+| Hatch | Een luik. | Een "escape hatch" is in software een nooduitgang. Ook: een plan uitbroeden. |
+| Hinge | Een scharnier. | Het kleine onderdeel waar alles om draait. Jij bent het scharnier tussen mens en AI. |
+| Lamp | Een lamp. | Het lampje gaat branden. LAMP is ook een bekende set webtechniek. |
+| Desk | Een bureau. | Een helpdesk, en je werkplek thuis. |
+| Porch | Een veranda. | De plek waar je op je gemak kennismaakt, voordat je binnenkomt. |
+| Room | Een kamer. | "Room to grow": ruimte om te groeien. Ook een chatroom. |
+| Home | Thuis. | De homepage en het startscherm. Je werkt vanuit huis. Let op: heel algemeen woord. |
+| Shelf | Een plank. | "Off the shelf": kant-en-klare oplossingen die je direct kunt gebruiken. |
+| Hearth | De haard. | Het warme hart van een huis. |
+| Kamer | Een kamer. | Nederlands en kort. Ook een Kamer van Koophandel-knipoog. |
+| Stoep | De stoep. | De eerste stap naar binnen. "Op de stoep staan" bij een nieuwe tool. |
+| Latch | Een klink. | In elektronica een geheugenschakeling die een stand vasthoudt. |
+
+**Top drie:** Raam, Nook en Hinge.
