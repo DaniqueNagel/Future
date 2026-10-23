@@ -340,3 +340,27 @@ Zet een sterretje achter een naam die je aanspreekt, of geef je favorieten door 
 | Latch | Een klink. | In elektronica een geheugenschakeling die een stand vasthoudt. |
 
 **Top drie:** Raam, Nook en Hinge.
+
+## 23 oktober 2026
+
+**Invalshoek:** sport en spel. De rollen naast het veld: wie je helpt, wie je zekert, wie de bal klaarlegt. Veel van die woorden betekenen ook iets in software.
+
+| Naam | Betekenis | Knipoog |
+|---|---|---|
+| Caddy | De caddie die de golftassen draagt en advies geeft. | Caddy is ook een bekende webserver. Jij draagt de techniek, de klant speelt. |
+| Assist | De pass waarmee een ander scoort. | Een AI-assistent assisteert. Jij geeft de assist, de klant scoort. |
+| Spotter | Degene die je zekert bij het gewichtheffen. | Je staat ernaast, zodat het veilig is om zwaarder te gaan. |
+| Setter | De spelverdeler bij volleybal, die de bal klaarlegt. | Ook "setup": jij zet alles klaar, de klant slaat af. |
+| Belay | Zekeren bij het klimmen. | Veilig hoger komen, met iemand die het touw vasthoudt. Uitspraak: "bielee". |
+| Pivot | Een draaipunt bij basketbal. | In bedrijven is een pivot een koerswijziging. Ook een draaitabel in Excel. |
+| Lane | Een baan, zoals in het zwembad. | In procesdiagrammen werk je met swimlanes. Ieder in zijn eigen baan, in zijn eigen tempo. |
+| Rally | Een lange slagenwisseling bij tennis. | Samen heen en weer spelen, zoals jij werkt met één sparringpartner. |
+| Huddle | Het korte overleg van een team. | Even bij elkaar komen voordat je verder gaat. |
+| Coach | Een trainer. | Je speelt de wedstrijd niet zelf, je maakt een ander beter. Let op: vrij letterlijk. |
+| Pace | Het tempo. | Een pacer loopt mee, zodat jij je tempo vindt. |
+| Quest | Een zoektocht in een spel. | De zoektocht naar wat AI voor jou kan doen. |
+| Move | Een zet. | "Make a move": in beweging komen met AI. |
+| Ace | Een ace bij tennis: een opslag die meteen raak is. | Ook "acen": iets in één keer goed doen. |
+| Relay | Een estafette. | In techniek geeft een relay een signaal door. Jij geeft het stokje door aan de klant. |
+
+**Top drie:** Caddy, Spotter en Assist.
