@@ -364,3 +364,27 @@ Zet een sterretje achter een naam die je aanspreekt, of geef je favorieten door 
 | Relay | Een estafette. | In techniek geeft een relay een signaal door. Jij geeft het stokje door aan de klant. |
 
 **Top drie:** Caddy, Spotter en Assist.
+
+## 24 oktober 2026
+
+**Invalshoek:** weer en seizoenen. Weer verandert, en je kunt je erop voorbereiden. Veel weerwoorden betekenen ook iets in software.
+
+| Naam | Betekenis | Knipoog |
+|---|---|---|
+| Dooi | Als het ijs smelt. | De angst voor AI ontdooit. Nederlands, kort en rond. |
+| Thaw | Dooi, in het Engels. | Hetzelfde idee, maar techier van klank. Uitspraak: "thoo". |
+| Cloud | Een wolk. | Bijna alle AI draait in de cloud. Let op: heel algemeen woord. |
+| Wolk | Een wolk. | De Nederlandse cloud. Zacht en rond. |
+| Front | Een weerfront. | De frontend is wat mensen zien van software. Jij staat vooraan. |
+| Forecast | Een weersverwachting. | AI voorspelt ook: omzet, drukte, voorraad. |
+| Drift | Wegdrijven met de wind. | In AI is drift als een model langzaam minder goed werkt. Jij houdt het op koers. |
+| Calm | Windstil. | Rust in een drukke wereld vol AI-nieuws. |
+| Zephyr | Een zacht westenwindje. | Ook de naam van een open AI-model. Uitspraak: "zeffer". |
+| Lente | De lente. | Een nieuw begin, als alles weer gaat groeien. |
+| Season | Een seizoen. | Elk seizoen nieuwe AI. In het Engels ook "kruiden". |
+| Dew | Dauw. | Fris, vroeg in de ochtend. Uitspraak: "djoe". |
+| Sunny | Zonnig. | Vrolijk en licht. Let op: kan kinderlijk overkomen. |
+| Bui | Een regenbui. | Ook "een goede bui". Na de bui klaart het op. |
+| Rain | Regen. | "Make it rain": iets dat je geld oplevert. |
+
+**Top drie:** Dooi, Drift en Calm.
