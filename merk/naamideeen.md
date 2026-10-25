@@ -388,3 +388,27 @@ Zet een sterretje achter een naam die je aanspreekt, of geef je favorieten door 
 | Rain | Regen. | "Make it rain": iets dat je geld oplevert. |
 
 **Top drie:** Dooi, Drift en Calm.
+
+## 25 oktober 2026
+
+**Invalshoek:** papier en schrijven. Het bureau van vroeger leeft voort op ons scherm: tabbladen, mappen, scrollen. Woorden van papier met een digitale tweede laag.
+
+| Naam | Betekenis | Knipoog |
+|---|---|---|
+| Fold | Een vouw. | "Above the fold" is wat je op een website ziet zonder te scrollen. Ook: complexe dingen netjes opvouwen. |
+| Tab | Een tabblad. | Iedereen heeft te veel tabs open. Jij brengt overzicht. |
+| Quill | Een ganzenveer om mee te schrijven. | Ook de naam van een bekende teksteditor voor websites. Zacht en een beetje eigenwijs. |
+| Inkt | Inkt. | Wat AI schrijft, zet jij op papier. Kort en Nederlands. |
+| Memo | Een korte notitie. | Duidelijk en kort, zoals je uitleg. |
+| Folio | Een vel uit een boek. | Ook een portfolio: jouw werk als ontwerper. |
+| Script | Een handschrift, of een filmscript. | In code is een script een reeks opdrachten die iets automatisch doet. |
+| Pen | Een pen. | De pen tool in Figma en Illustrator. Jouw vak. |
+| Gum | Een gum. | De undo-knop van papier. Fouten maken mag. |
+| Clip | Een paperclip. | Clippy, de beroemde assistent van Microsoft Office, was de eerste "AI" op kantoor. |
+| Sheet | Een vel papier. | Een spreadsheet. Veel bedrijven draaien op Excel, en AI begint vaak daar. |
+| Scroll | Een boekrol. | Scrollen doe je elke dag. Een rol met kennis. |
+| Index | Een register achterin een boek. | Zoekmachines en AI indexeren alles. Jij helpt mensen vinden. |
+| Vel | Een vel papier. | Een leeg vel: opnieuw beginnen. Kort en Nederlands. |
+| Page | Een pagina. | Een webpagina. "On the same page": op één lijn zitten. |
+
+**Top drie:** Fold, Tab en Quill.
