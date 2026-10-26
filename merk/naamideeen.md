@@ -412,3 +412,27 @@ Zet een sterretje achter een naam die je aanspreekt, of geef je favorieten door 
 | Page | Een pagina. | Een webpagina. "On the same page": op één lijn zitten. |
 
 **Top drie:** Fold, Tab en Quill.
+
+## 26 oktober 2026
+
+**Invalshoek:** dieren die de weg wijzen, slim zijn of rust brengen. Vooral vogels, en een paar namen die ook in software of AI bestaan.
+
+| Naam | Betekenis | Knipoog |
+|---|---|---|
+| Raaf | Een raaf, een van de slimste vogels. | In de Noorse mythe vlogen twee raven de wereld rond en brachten Odin elke dag nieuws. Jij houdt mensen op de hoogte. |
+| Swift | Een gierzwaluw: snel en wendbaar. | Swift is de programmeertaal van Apple. Ook: snel en soepel. |
+| Robin | Een roodborstje. | "Round robin" is een eerlijke beurtverdeling in software. Ook een vriendelijke naam. |
+| Uil | Een uil. | Het symbool van wijsheid. Nederlands en kort. Let op: "een uil" is ook een domoor. |
+| Owl | Een uil, in het Engels. | Wijs, en Duolingo heeft er een als gids. |
+| Wren | Een winterkoninkje: klein, maar met een luide stem. | Klein beginnen, groot geluid. Uitspraak: "ren". |
+| Heron | Een reiger. | Geduldig en precies. Heron van Alexandrië bouwde de eerste automaten. |
+| Lynx | Een lynx, met scherpe ogen. | Ziet wat anderen missen. Lynx is ook een oude webbrowser. |
+| Bee | Een bij. | Bijen werken samen en automatisch, als een goed systeem. |
+| Otter | Een otter: speels en slim, gebruikt gereedschap. | Speels en deskundig tegelijk. Let op: Otter.ai bestaat al. |
+| Crane | Een kraanvogel. | Trekt elk jaar dezelfde route. Ook een kraan die zwaar werk tilt. |
+| Lark | Een leeuwerik. | "For a lark": voor de lol. Een vroege vogel. |
+| Merel | Een merel. | Een bekende vogel, en een Nederlandse meisjesnaam. Zacht en warm. |
+| Vos | Een vos. | Slim en eigenwijs, zoals Reynaert de Vos. |
+| Dove | Een duif. | Postduiven vinden altijd de weg naar huis. Let op: Dove is ook een zeepmerk. |
+
+**Top drie:** Raaf, Swift en Robin.
