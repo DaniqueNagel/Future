@@ -436,3 +436,27 @@ Zet een sterretje achter een naam die je aanspreekt, of geef je favorieten door 
 | Dove | Een duif. | Postduiven vinden altijd de weg naar huis. Let op: Dove is ook een zeepmerk. |
 
 **Top drie:** Raaf, Swift en Robin.
+
+## 27 oktober 2026
+
+**Invalshoek:** stenen en materialen. Computers zijn gemaakt van zand en steen, en veel materialen hebben een tweede leven als naam in software.
+
+| Naam | Betekenis | Knipoog |
+|---|---|---|
+| Quartz | Kwarts, een kristal. | Elke computer en klok tikt op een kwartskristal. Het ritme onder alle techniek. |
+| Slate | Lei, een schoolbord. | "A clean slate": met een schone lei beginnen. Ook een bekend teksteditor-framework. |
+| Pebble | Een kiezelsteen. | Rond, glad en klein. Pebble was ook een vroege slimme horloge. |
+| Mica | Mica, een glanzend mineraal. | Mica is ook het materiaal-effect in het ontwerp van Windows. Jouw vak. |
+| Amber | Barnsteen, versteende hars. | Bewaart iets kostbaars. Ook een warme kleur en een oranje stoplicht: even nadenken. |
+| Opal | Een opaal: verandert van kleur in het licht. | Elke klant ziet AI anders. Zacht en rond van klank. |
+| Jade | Jade, een groene steen. | Staat voor rust en geluk. Ook de naam van een websitetaal. |
+| Pearl | Een parel. | Klinkt als Perl, een oude programmeertaal. Iets moois dat ontstaat uit een korreltje zand. |
+| Flint | Vuursteen. | Het eerste gereedschap van de mens: de vonk. Let op: hardere klank. |
+| Glas | Glas. | Transparant: je laat zien hoe AI werkt. Glassmorphism is een designstijl. |
+| Chalk | Krijt. | Uitleggen op het bord. Chalk is ook een bekende tool die tekst in de terminal kleur geeft. |
+| Klei | Klei. | Kneedbaar: AI vormen naar jouw bedrijf. Let op: Clay bestaat als AI-tool. |
+| Kiezel | Een kiezelsteen. | Nederlands en zacht. Kleine stenen maken samen een pad. |
+| Silk | Zijde. | Glad en soepel, zoals werk dat vanzelf loopt. |
+| Cobalt | Kobaltblauw. | Een diepe kleur, en een metaal in elke accu. Let op: hardere klank. |
+
+**Top drie:** Slate, Quartz en Pebble.
