@@ -460,3 +460,27 @@ Zet een sterretje achter een naam die je aanspreekt, of geef je favorieten door 
 | Cobalt | Kobaltblauw. | Een diepe kleur, en een metaal in elke accu. Let op: hardere klank. |
 
 **Top drie:** Slate, Quartz en Pebble.
+
+## 28 oktober 2026
+
+**Invalshoek:** tijd en klokken. AI geeft je tijd terug, en in software draait veel op klokken: geplande taken, tikken, tijdperken.
+
+| Naam | Betekenis | Knipoog |
+|---|---|---|
+| Wijzer | De wijzer van een klok. | Ook "wijzer worden": je wijst de weg en mensen worden er wijzer van. |
+| Cron | Van Chronos, de Griekse god van de tijd. | Een cron job is een taak die automatisch op een vast moment draait. Precies wat jij bouwt. |
+| Morgen | De ochtend, en de dag van morgen. | Klaar voor morgen, een van je merkwaarden. Nederlands en zacht. |
+| Tick | Het tikken van een klok. | Ook een vinkje: taak afgerond. |
+| Chime | Een klokkenspel, een zacht belletje. | Een vriendelijk seintje als er iets klaar is. |
+| Epoch | Een tijdperk. | In computers begint de tijd op 1 januari 1970: de Unix-epoch. Een nieuw tijdperk met AI. |
+| Era | Een tijdperk. | Kort en open van klank. Het AI-tijdperk. |
+| Now | Nu. | Niet wachten, gewoon beginnen. |
+| Snooze | De sluimerknop. | Een knipoog: AI doet het werk terwijl jij nog even blijft liggen. Let op: kan lui klinken. |
+| Pauze | Een pauze. | Even op pauze, rustig nadenken. Rust en overzicht. |
+| Lap | Een ronde op de baan. | Een rondje met elkaar. Ook een laptop, kort gezegd. |
+| Dial | Een wijzerplaat, of een draaiknop. | Iets fijn afstellen: AI precies goed instellen. |
+| Hour | Een uur. | "Het uur U", en uren die je terugkrijgt. Uitspraak: "aur". |
+| Uptime | Hoe lang een systeem zonder storing draait. | Jouw belofte: dat het blijft werken. |
+| Daily | Dagelijks. | Een daily is een korte dagstart in teams. Kleine stappen, elke dag. |
+
+**Top drie:** Wijzer, Cron en Morgen.
