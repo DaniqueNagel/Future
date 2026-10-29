@@ -484,3 +484,27 @@ Zet een sterretje achter een naam die je aanspreekt, of geef je favorieten door 
 | Daily | Dagelijks. | Een daily is een korte dagstart in teams. Kleine stappen, elke dag. |
 
 **Top drie:** Wijzer, Cron en Morgen.
+
+## 29 oktober 2026
+
+**Invalshoek:** wiskunde en vormen. AI is in de kern wiskunde, en jij maakt het begrijpelijk. Woorden uit de wiskunde die ook in gewone taal iets betekenen.
+
+| Naam | Betekenis | Knipoog |
+|---|---|---|
+| Delta | Het teken voor verandering (Δ). | Ook een rivierdelta en de Nederlandse Deltawerken: veranderingen in goede banen leiden. |
+| Curve | Een kromme lijn. | De leercurve: jij maakt hem minder steil. Ontwerpers werken dagelijks met curves. |
+| Axis | Een as. | Het vaste punt waar alles om draait. Ook de assen van een grafiek. |
+| Kring | Een cirkel. | Een kring mensen om je heen, en een kringloop: steeds een stapje beter. |
+| Helix | Een spiraal, zoals DNA. | Groei in rondjes: elke keer een stukje hoger. |
+| Prime | Een priemgetal. | Ook "prime": de beste, de eerste keus. |
+| Sum | Een som. | "The sum of its parts": mens en AI samen zijn meer. |
+| Pi | Het getal pi (π). | Oneindig en toch heel precies. Twee letters. |
+| Sigma | Het teken voor optellen (Σ). | Alles bij elkaar opgeteld: het totaaloverzicht. |
+| Hoek | Een hoek. | "Een andere hoek": anders kijken naar je werk. Nederlands en kort. |
+| Dot | Een punt. | "Connect the dots": verbanden leggen. Ook de punt in .nl en .com. |
+| Point | Een punt. | "The point": waar het eigenlijk om gaat. Ook een punt op de kaart. |
+| Boog | Een boog. | Een brug over een rivier, en de boog van een verhaal. Nederlands en rond. |
+| Shape | Een vorm. | "In shape": in goede vorm. Jij geeft AI vorm voor jouw bedrijf. |
+| Cube | Een kubus. | Een bouwsteen. Let op: doet denken aan de Rubik's kubus of een speelgoedblok. |
+
+**Top drie:** Delta, Curve en Kring.
