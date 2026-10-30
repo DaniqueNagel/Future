@@ -508,3 +508,27 @@ Zet een sterretje achter een naam die je aanspreekt, of geef je favorieten door 
 | Cube | Een kubus. | Een bouwsteen. Let op: doet denken aan de Rubik's kubus of een speelgoedblok. |
 
 **Top drie:** Delta, Curve en Kring.
+
+## 30 oktober 2026
+
+**Invalshoek:** film en video. Je wilt zelf leren video's te maken met AI, en veel filmwoorden hebben ook een gewone betekenis.
+
+| Naam | Betekenis | Knipoog |
+|---|---|---|
+| Take | Een opname. | Ook "my take": jouw kijk op AI. En: nog een take, tot het goed is. |
+| Reel | Een filmrol. | Een Instagram Reel, en een showreel van je werk. |
+| Still | Een stilstaand beeld uit een film. | Ook "still": stil, rustig. Rust in een snelle wereld. |
+| Scene | Een scène. | "Behind the scenes": jij laat zien wat er achter AI zit. |
+| Kader | Het kader van een beeld. | Ook "een kader geven": duidelijke grenzen en overzicht. Nederlands. |
+| Beeld | Een beeld. | "Een beeld krijgen van": begrijpen hoe het zit. Nederlands en rond. |
+| Fade | Een overgang die langzaam vervaagt. | Zachte overgangen: van de oude naar de nieuwe manier van werken. |
+| Edit | Bewerken. | Wat AI maakt, maak jij beter. De laatste hand. |
+| Shutter | De sluiter van een camera. | Het moment waarop het beeld vastligt. Uitspraak: "sjutter". |
+| Spoel | Een filmspoel. | Ook doorspoelen: sneller naar het goede stuk. Let op: ook spoelen in de keuken. |
+| Pan | Een camerabeweging van links naar rechts. | Overzicht: het hele landschap in beeld. |
+| Shot | Een opname. | "Give it a shot": probeer het gewoon. In AI is een "one-shot" één voorbeeld. |
+| Matte | Een masker in videobewerking. | Ook mat, zonder glans: rustig en strak. |
+| Sequence | Een reeks shots na elkaar. | Stap voor stap, in de goede volgorde. Twee lettergrepen. |
+| Flash | Een flitser. | Snel inzicht. Let op: ook de oude Flash-software. |
+
+**Top drie:** Take, Still en Kader.
