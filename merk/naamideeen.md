@@ -532,3 +532,27 @@ Zet een sterretje achter een naam die je aanspreekt, of geef je favorieten door 
 | Flash | Een flitser. | Snel inzicht. Let op: ook de oude Flash-software. |
 
 **Top drie:** Take, Still en Kader.
+
+## 31 oktober 2026
+
+**Invalshoek:** gebaren. Kleine bewegingen die veel zeggen, zonder uitleg. Op een scherm doen we ze elke dag: tikken, vegen, aanraken.
+
+| Naam | Betekenis | Knipoog |
+|---|---|---|
+| Wink | Een knipoog. | De naam is zelf een knipoog, en dat zocht je in een naam. |
+| Wenk | Een seintje, een tip. | Nederlands en zacht. "Een wenk geven": je helpt, de klant doet het zelf. |
+| Nod | Een knikje. | "Een knikje van herkenning": ja, nu snap ik het. |
+| Knik | Een knikje. | Ook een knik in een lijn: het moment dat iets een andere kant op gaat. |
+| Wave | Een zwaai, en een golf. | De AI-golf, en een vriendelijke groet. |
+| Palm | De handpalm. | De Palm Pilot was een van de eerste slimme apparaten. "In the palm of your hand". |
+| Thumb | Een duim. | Duim omhoog. Een thumbnail is een klein voorbeeldplaatje. |
+| Grip | Grip. | "Grip krijgen op AI": precies wat klanten willen. |
+| Reach | Reiken. | Binnen bereik: AI wordt bereikbaar voor iedereen. Ook "reach" op social media. |
+| Lean | Leunen. | Lean werken: zonder verspilling. Ook "lean on me": je kunt op me leunen. |
+| Tap | Tikken op een scherm. | Eén tik en het werkt. Ook een kraan: AI aanzetten. |
+| Swipe | Vegen op een scherm. | Snel door je opties heen. Let op: doet denken aan datingapps. |
+| Touch | Aanraken. | "In touch": contact houden. Een persoonlijke touch. |
+| Glance | Een snelle blik. | "At a glance": alles in één oogopslag. Overzicht. |
+| Blink | Een knippering. | "In a blink": in een oogwenk. Ook de motor van de Chrome-browser. |
+
+**Top drie:** Wink, Wenk en Grip.
