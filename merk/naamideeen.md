@@ -556,3 +556,27 @@ Zet een sterretje achter een naam die je aanspreekt, of geef je favorieten door 
 | Blink | Een knippering. | "In a blink": in een oogwenk. Ook de motor van de Chrome-browser. |
 
 **Top drie:** Wink, Wenk en Grip.
+
+## 1 november 2026
+
+**Invalshoek:** textiel en weven. De eerste computers werden geprogrammeerd met ponskaarten voor weefgetouwen. Veel woorden uit textiel leven voort in software.
+
+| Naam | Betekenis | Knipoog |
+|---|---|---|
+| Draad | Een draad. | "De draad oppakken": weer verder kunnen. Ook "de rode draad": wat alles verbindt. |
+| Thread | Een draad. | Een thread is een gesprek op social media, en een taak die tegelijk draait in software. |
+| Weave | Weven. | Mens en AI verweven tot één manier van werken. |
+| Knit | Breien. | "Close-knit": hecht verbonden. Rustig steek voor steek. |
+| Stitch | Een steek. | "A stitch in time saves nine": op tijd een kleine steek voorkomt veel werk. |
+| Yarn | Garen, en een verhaal. | Yarn is ook een bekende tool om software te installeren. "Spin a yarn": een verhaal vertellen. |
+| Naald | Een naald. | Precies en scherp. "Een naald in een hooiberg": jij vindt wat werkt. |
+| Lint | Een pluisje. | Een linter haalt in code de kleine foutjes weg, zoals een pluizenroller. |
+| Patch | Een lapje stof. | Een patch is ook een software-update die iets repareert. |
+| Quilt | Een lappendeken. | Veel kleine stukjes die samen één geheel vormen. Je brede achtergrond als kracht. |
+| Warp | De schering, de lengtedraden op een weefgetouw. | Ook "warp speed": supersnel vooruit. |
+| Fabric | Stof. | "The fabric of": waar iets van gemaakt is. Ook een dataplatform van Microsoft. |
+| Linen | Linnen. | Licht, puur en rustig. Strak en minimalistisch. |
+| Garen | Garen. | Nederlands en zacht. Ook "garen": rustig laten gaar worden, op lage temperatuur. |
+| Wol | Wol. | Warm en zacht. Kort en Nederlands. |
+
+**Top drie:** Draad, Thread en Quilt.
