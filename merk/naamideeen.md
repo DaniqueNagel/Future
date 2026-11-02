@@ -600,7 +600,7 @@ Zet een sterretje achter een naam die je aanspreekt, of geef je favorieten door 
 | Fuse | Een zekering. | Veiligheid, en "fuse": samensmelten van mens en AI. |
 | Amp | Een versterker. | Jij versterkt wat iemand al kan. |
 | Ohm | De eenheid van weerstand. | Klinkt als "om", het meditatiewoord: rust. Weerstand wegnemen. |
-| Dynamo | Een fietsdynamo. | Zelf energie opwekken door te bewegen. Let op: drie lettergrepen. |
+| Kabel | Een kabel. | De verbinding tussen twee dingen. Nederlands en kort: jij legt de lijn naar AI. |
 | Wire | Een draad. | "Wired": verbonden, en een bekend techblad. |
 
 **Top drie:** Stroom, Flow en Ohm.
