@@ -580,3 +580,27 @@ Zet een sterretje achter een naam die je aanspreekt, of geef je favorieten door 
 | Wol | Wol. | Warm en zacht. Kort en Nederlands. |
 
 **Top drie:** Draad, Thread en Quilt.
+
+## 2 november 2026
+
+**Invalshoek:** stroom en energie. AI geeft energie terug: tijd en ruimte. Woorden uit de elektriciteit met een gewone tweede betekenis.
+
+| Naam | Betekenis | Knipoog |
+|---|---|---|
+| Stroom | Elektriciteit, en een rivier. | "Met de stroom mee": AI laten werken in plaats van ertegen vechten. Ook "in een stroomversnelling". |
+| Current | Stroom. | Ook "actueel": je blijft bij met AI. |
+| Flow | Doorstroming. | "In de flow zijn": werk dat vanzelf gaat. Een workflow in n8n. |
+| Pulse | Een hartslag, een elektrische puls. | "De vinger aan de pols": jij weet wat er speelt. |
+| Plug | Een stekker. | "Plug and play": aansluiten en het werkt. Ook een plug-in. |
+| Volt | De eenheid van spanning. | Energie en een beetje spanning: nieuwsgierig worden. |
+| Watt | De eenheid van vermogen. | Klinkt als "what": de vraag waar je mee begint. Ook James Watt, uitvinder. |
+| Socket | Een stopcontact. | In software een verbinding tussen twee systemen. |
+| Circuit | Een stroomkring. | Alles is verbonden en loopt rond. Ook een circuit, een parcours. |
+| Charge | Opladen. | Je klant laadt op: nieuwe energie. "In charge": de regie houden. |
+| Fuse | Een zekering. | Veiligheid, en "fuse": samensmelten van mens en AI. |
+| Amp | Een versterker. | Jij versterkt wat iemand al kan. |
+| Ohm | De eenheid van weerstand. | Klinkt als "om", het meditatiewoord: rust. Weerstand wegnemen. |
+| Dynamo | Een fietsdynamo. | Zelf energie opwekken door te bewegen. Let op: drie lettergrepen. |
+| Wire | Een draad. | "Wired": verbonden, en een bekend techblad. |
+
+**Top drie:** Stroom, Flow en Ohm.
