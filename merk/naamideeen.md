@@ -604,3 +604,27 @@ Zet een sterretje achter een naam die je aanspreekt, of geef je favorieten door 
 | Wire | Een draad. | "Wired": verbonden, en een bekend techblad. |
 
 **Top drie:** Stroom, Flow en Ohm.
+
+## 3 november 2026
+
+**Invalshoek:** bouwen en architectuur. Een stevig bedrijf bouw je zoals een huis: fundament, zuilen, een poort. Veel bouwwoorden worden ook in software gebruikt.
+
+| Naam | Betekenis | Knipoog |
+|---|---|---|
+| Keystone | De sluitsteen bovenin een boog, die alles op zijn plek houdt. | Het kleine stuk dat het geheel laat werken. Jij bent dat stuk tussen mens en AI. |
+| Arch | Een boog. | Ook de afkorting van architectuur, en Arch is een bekende Linux-versie. Let op: Arc is een browser. |
+| Tile | Een tegel. | Apps en dashboards zijn opgebouwd uit tegels. Stap voor stap een vloer leggen. |
+| Tegel | Een tegel. | Nederlands. Ook een tegeltjeswijsheid: een korte, heldere zin. |
+| Vault | Een gewelf, en een kluis. | Een password vault bewaart je wachtwoorden veilig. Veiligheid, een onderwerp dat je wilt leren. |
+| Kolom | Een zuil, en een kolom in een tabel. | In Excel en in een gebouw: wat de boel overeind houdt. |
+| Zuil | Een pilaar. | Nederlands en kort. Iets waar je op kunt bouwen. |
+| Pillar | Een pilaar. | "A pillar of support": een steunpilaar voor de klant. |
+| Dome | Een koepel. | Overkoepelend: het overzicht boven alles. |
+| Gevel | De voorkant van een gebouw. | Je website en je merk: wat mensen als eerste zien. Jouw vak als ontwerper. |
+| Ladder | Een ladder. | Stap voor stap omhoog, sport voor sport. Iedereen kan klimmen. |
+| Toren | Een toren. | Uitkijken over het landschap: overzicht. Een baken in de verte. |
+| Base | De basis. | Een database, een codebase. Jij legt de basis. |
+| Portal | Een poort naar een andere wereld. | Een webportaal. Je stapt door de poort naar AI. |
+| Poort | Een poort. | In techniek is een poort de ingang naar een computer. Nederlands en open. |
+
+**Top drie:** Keystone, Tegel en Vault.
