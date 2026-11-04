@@ -628,3 +628,27 @@ Zet een sterretje achter een naam die je aanspreekt, of geef je favorieten door 
 | Poort | Een poort. | In techniek is een poort de ingang naar een computer. Nederlands en open. |
 
 **Top drie:** Keystone, Tegel en Vault.
+
+## 4 november 2026
+
+**Invalshoek:** puzzels en spellen. AI voelt voor veel mensen als een doolhof of een puzzel. Jij helpt de stukjes op hun plek te leggen.
+
+| Naam | Betekenis | Knipoog |
+|---|---|---|
+| Maze | Een doolhof. | Jij kent de weg door de doolhof. Kort en zacht, één lettergreep. |
+| Doolhof | Een doolhof. | Nederlands. "Dolen" en de weg weer vinden. |
+| Piece | Een puzzelstukje. | "Piece of cake": met jou wordt AI een makkie. Klinkt als "peace": rust. |
+| Jigsaw | Een legpuzzel. | Stukje voor stukje een compleet beeld. Let op: ook de naam van een horrorfilm. |
+| Solve | Oplossen. | Precies wat je doet. Let op: vrij letterlijk. |
+| Riddle | Een raadsel. | AI is een raadsel, tot iemand het uitlegt. |
+| Puzzel | Een puzzel. | Nederlands. Ook "puzzelen": samen uitzoeken hoe het past. |
+| Raadsel | Een raadsel. | Er zit "raad" in: jij geeft raad bij het raadsel. |
+| Loper | De loper bij schaken, die schuin over het bord gaat. | Ook een rode loper, en een loper is een sleutel die op elke deur past. |
+| Rook | De toren bij schaken. | Een "rook" is in het Engels ook een beginner. Jij helpt beginners. |
+| Pion | Een pion bij schaken. | Een pion die het bord over komt, wordt een koningin. Klein beginnen, groot eindigen. |
+| Gambit | Een slimme openingszet bij schaken. | Een slim plan aan het begin. Bekend van The Queen's Gambit. |
+| Dice | Dobbelstenen. | Een knipoog naar de gok die AI soms lijkt. Jij haalt het toeval eruit. |
+| Joker | De joker in een kaartspel. | De kaart die overal past. Speels en eigenwijs. Let op: ook de Batman-schurk. |
+| Kwartet | Een kaartspel waarin je sets van vier verzamelt. | "Heb jij...?": vragen stellen tot het compleet is. Jouw vier stappen. |
+
+**Top drie:** Maze, Loper en Raadsel.
