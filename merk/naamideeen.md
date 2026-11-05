@@ -652,3 +652,27 @@ Zet een sterretje achter een naam die je aanspreekt, of geef je favorieten door 
 | Kwartet | Een kaartspel waarin je sets van vier verzamelt. | "Heb jij...?": vragen stellen tot het compleet is. Jouw vier stappen. |
 
 **Top drie:** Maze, Loper en Raadsel.
+
+## 5 november 2026
+
+**Invalshoek:** zien en kijken. Jij helpt mensen helder te zien wat AI voor hen kan doen. Woorden over zicht, met een tweede laag.
+
+| Naam | Betekenis | Knipoog |
+|---|---|---|
+| Bril | Een bril. | Met een bril zie je scherp. Jij zet mensen een AI-bril op. Nederlands en kort, ook "briljant". |
+| Zicht | Zicht. | "In zicht": het doel komt dichterbij. Ook "inzicht". |
+| Pupil | Het zwarte rondje in je oog. | In het Engels ook een leerling. Zien en leren in één woord. |
+| Insight | Inzicht. | Wat klanten krijgen. Ook een term uit data en analyse. |
+| Glimp | Een glimp. | "Een glimp opvangen" van de toekomst. Nederlands en zacht. |
+| Visie | Een visie. | Waar je naartoe wilt met AI. Let op: vrij letterlijk. |
+| Vision | Zicht, en een visie. | Computer vision is AI die kan zien. |
+| Scope | Een kijker, en een afbakening. | "De scope": wat wel en niet in een project zit. Overzicht. |
+| Specs | Een bril, in het Engels. | Ook de specificaties: precies weten wat je nodig hebt. |
+| Sight | Het zicht. | "In sight", en "insight": inzicht zit er al in. |
+| View | Een uitzicht. | "Point of view": jouw kijk. In software is een view een weergave. |
+| Peek | Even gluren. | "Sneak peek": een voorproefje van wat AI kan. |
+| Visor | Een vizier. | Zicht houden op het doel. Ook de klep van een pet. |
+| Gaze | Een lange blik. | Rustig en aandachtig kijken. |
+| Look | Kijken. | "Take a look": vrijblijvend even kijken. Let op: heel algemeen woord. |
+
+**Top drie:** Bril, Pupil en Glimp.
