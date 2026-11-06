@@ -676,3 +676,27 @@ Zet een sterretje achter een naam die je aanspreekt, of geef je favorieten door 
 | Look | Kijken. | "Take a look": vrijblijvend even kijken. Let op: heel algemeen woord. |
 
 **Top drie:** Bril, Pupil en Glimp.
+
+## 6 november 2026
+
+**Invalshoek:** de fiets. Heel Nederlands: iedereen kan het, je leert het één keer en je verleert het nooit. Zo zou AI ook moeten voelen.
+
+| Naam | Betekenis | Knipoog |
+|---|---|---|
+| Tandem | Een fiets voor twee. | Samen trappen, zoals jij het liefst werkt: met één persoon naast je. |
+| Stuur | Het stuur van een fiets. | "Aan het stuur zitten": de klant houdt de regie, AI trapt mee. |
+| Bel | Een fietsbel. | "Bel me even": laagdrempelig contact. Kort, Nederlands en vrolijk. |
+| Pedal | Een trapper. | Jij geeft het eerste zetje, daarna gaat het vanzelf. |
+| Spaak | Een spaak in een wiel. | Alle spaken samen houden het wiel rond. Let op: "spaak lopen" betekent misgaan. |
+| Zadel | Een zadel. | "In het zadel helpen": iemand op weg helpen. Nederlands en zacht. |
+| Gear | Een versnelling. | "Een tandje erbij": sneller met AI. Ook "gear" als in uitrusting. |
+| Spoke | Een spaak. | Ook "hub and spoke": een centrale plek met lijnen naar alles. |
+| Wheel | Een wiel. | "Reinvent the wheel": dat hoeft niet, de tools bestaan al. |
+| Cog | Een tandwiel. | Het kleine tandwiel dat het hele mechanisme laat draaien. |
+| Cycle | Een fiets, en een cyclus. | Een cyclus: steeds een rondje beter, zoals in design. |
+| Helm | Een fietshelm, en in het Engels een roer. | Veiligheid en sturen in één woord. "At the helm": aan het roer. |
+| Freewheel | Vrij rollen zonder te trappen. | Het gevoel als AI het werk doet. Vrijheid, je reden om voor jezelf te beginnen. |
+| Velo | Fiets, in het Frans. | Kort en licht. Let op: Franse klank. |
+| Ketting | Een fietsketting. | Wat de kracht overbrengt. Ook "blockchain", een ketting van blokken. |
+
+**Top drie:** Tandem, Zadel en Helm.
