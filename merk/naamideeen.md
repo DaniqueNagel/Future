@@ -700,3 +700,27 @@ Zet een sterretje achter een naam die je aanspreekt, of geef je favorieten door 
 | Ketting | Een fietsketting. | Wat de kracht overbrengt. Ook "blockchain", een ketting van blokken. |
 
 **Top drie:** Tandem, Zadel en Helm.
+
+## 7 november 2026
+
+**Invalshoek:** geld en waarde. AI moet iets opleveren: tijd, rust en ook gewoon geld. Woorden over geld met een tweede, vaak frisse betekenis.
+
+| Naam | Betekenis | Knipoog |
+|---|---|---|
+| Munt | Een munt, en het muntplantje. | Fris en waardevol. "Munt slaan uit": voordeel halen uit AI. Nederlands en kort. |
+| Mint | Munt, in het Engels. | Ook "in mint condition": als nieuw. Fris en schoon. |
+| Wissel | Wisselgeld, en een spoorwissel. | Een wissel zet je op een ander spoor: van de oude naar de nieuwe manier van werken. |
+| Change | Wisselgeld, en verandering. | "Be the change." Jij helpt mensen veranderen. Let op: heel algemeen woord. |
+| Credit | Krediet, en de eer. | AI-tools werken met credits. En "credit where credit is due": de klant krijgt de eer. |
+| Coin | Een munt. | "To coin a phrase": een nieuw woord bedenken. Let op: doet denken aan crypto. |
+| Penny | Een stuiver. | "The penny dropped": het kwartje valt. Precies het moment waar je naartoe werkt. |
+| Tally | Turven, de telling bijhouden. | Rustig bijhouden wat AI je oplevert. Ook een bekende formulierentool. |
+| Ledger | Een grootboek. | Overzicht van wat er binnenkomt en uitgaat. Ook de basis van blockchain. |
+| Wallet | Een portemonnee. | Een digitale wallet. Iets dat je altijd bij je hebt. |
+| Beurs | Een portemonnee, een beurs, en een studiebeurs. | Een studiebeurs helpt je leren. Ook een vakbeurs: kennis delen. |
+| Bonus | Iets extra's. | Wat AI je geeft bovenop je werk. Let op: kan als sales klinken. |
+| Gulden | De oude Nederlandse munt. | Een knipoog naar vroeger, en "gulden middenweg": de goede balans. |
+| Fund | Een fonds. | "Fun" zit erin. Een fonds van kennis waaruit je kunt putten. |
+| Cent | Een cent. | "Geen cent te veel": duidelijk en eerlijk. Kort, één lettergreep. |
+
+**Top drie:** Munt, Wissel en Penny.
