@@ -724,3 +724,27 @@ Zet een sterretje achter een naam die je aanspreekt, of geef je favorieten door 
 | Cent | Een cent. | "Geen cent te veel": duidelijk en eerlijk. Kort, één lettergreep. |
 
 **Top drie:** Munt, Wissel en Penny.
+
+## 8 november 2026
+
+**Invalshoek:** het lab. AI uitproberen voelt als een proefje doen: veilig, nieuwsgierig, stap voor stap. Woorden uit natuurkunde, scheikunde en biologie met een tweede laag.
+
+| Naam | Betekenis | Knipoog |
+|---|---|---|
+| Lab | Een laboratorium. | Een plek om veilig uit te proberen. Kort, techie en volwassen. |
+| Neuron | Een zenuwcel. | Een neuraal netwerk is gebouwd naar het voorbeeld van neuronen. Mens en AI in één woord. |
+| Synapse | De verbinding tussen twee zenuwcellen. | Jij bent de verbinding tussen mens en AI. Uitspraak: "sinaps". |
+| Atom | Een atoom. | De kleinste bouwsteen. Ook de naam van een bekende code-editor. |
+| Ion | Een geladen deeltje. | Kort en open van klank. Energie in drie letters. |
+| Bond | Een binding tussen atomen. | Ook een band tussen mensen. En James Bond: een slimme gids met gadgets. |
+| Flask | Een kolf uit het lab. | Flask is ook een bekend Python-framework om websites te bouwen. |
+| Kolf | Een kolf. | Nederlands. Een proefje doen in een veilige omgeving. |
+| Beaker | Een maatbeker uit het lab. | Ook de bekende lab-assistent uit de Muppets: speels. |
+| Neon | Een edelgas dat licht geeft. | Neonlicht valt op. Fris en helder. |
+| Argon | Een edelgas. | Rustig en stabiel: het reageert nergens heftig op. Let op: klinkt als "jargon". |
+| Alloy | Een legering, een mengsel van metalen. | Samen sterker dan apart: mens en AI. |
+| Quark | Het kleinste deeltje. | Ook "quirk": een eigenaardigheid. Speels en eigenwijs. |
+| Photon | Een lichtdeeltje. | Licht in kleine stukjes. Uitspraak: "footon". |
+| Cel | Een cel. | Ook een cel in een spreadsheet. De kleinste eenheid van leven en van Excel. |
+
+**Top drie:** Lab, Neuron en Synapse.
