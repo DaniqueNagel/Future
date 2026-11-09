@@ -748,3 +748,27 @@ Zet een sterretje achter een naam die je aanspreekt, of geef je favorieten door 
 | Cel | Een cel. | Ook een cel in een spreadsheet. De kleinste eenheid van leven en van Excel. |
 
 **Top drie:** Lab, Neuron en Synapse.
+
+## 9 november 2026
+
+**Invalshoek:** bergen en wandelen. AI leren voelt als een berg beklimmen. Met een goede gids, een duidelijk pad en tussenstops is de top haalbaar voor iedereen.
+
+| Naam | Betekenis | Knipoog |
+|---|---|---|
+| Cairn | Een stapeltje stenen dat wandelaars de weg wijst. | Je zegt "kern": de kern uit AI halen. Een teken dat iemand je voor is gegaan. |
+| Basecamp | Het basiskamp onder aan de berg. | Een veilige plek om je voor te bereiden. Ook een bekende projecttool. |
+| Switchback | Een haarspeldbocht op een bergpad. | Je gaat niet recht omhoog, maar in rustige bochten. Zo leer je AI ook. |
+| Trail | Een wandelpad. | Ook een audit trail: een spoor van wat er gebeurd is. |
+| Summit | De top van een berg. | Ook een topbijeenkomst. Doel en overzicht. |
+| Peak | Een bergtop. | "Peak performance": op je best. |
+| Ridge | Een bergkam. | Je loopt op de kam en ziet beide kanten: mens en techniek. |
+| Kam | Een bergkam, en een kam. | Nederlands en kort. "Over één kam scheren" doe je juist niet: elk bedrijf is anders. |
+| Trek | Een lange tocht. | Ook "trek hebben in": zin krijgen in AI. En Star Trek: techniek en ontdekking. |
+| Hike | Een wandeling. | Rustig en in je eigen tempo. Let op: ook "prijsverhoging" in het Engels. |
+| Berg | Een berg. | De berg werk die AI kleiner maakt. Kort en Nederlands. |
+| Heuvel | Een heuvel. | Geen berg, maar een heuvel: AI is minder steil dan je denkt. |
+| Hut | Een berghut. | Een warme plek onderweg om op te warmen en verder te gaan. |
+| Marker | Een markering op het pad. | De verfstreepjes die je vertellen dat je goed loopt. Ook een stift. |
+| Wander | Dwalen, rondwandelen. | Vrij rondkijken en ontdekken. Let op: ook "wandelen" zonder doel. |
+
+**Top drie:** Cairn, Basecamp en Switchback.
