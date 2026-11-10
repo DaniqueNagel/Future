@@ -772,3 +772,27 @@ Zet een sterretje achter een naam die je aanspreekt, of geef je favorieten door 
 | Wander | Dwalen, rondwandelen. | Vrij rondkijken en ontdekken. Let op: ook "wandelen" zonder doel. |
 
 **Top drie:** Cairn, Basecamp en Switchback.
+
+## 10 november 2026
+
+**Invalshoek:** ruimtevaart. Niet de sterren zelf, maar de reis erheen: lanceren, verkennen, veilig landen. Een nieuw gebied, met een goede missie.
+
+| Naam | Betekenis | Knipoog |
+|---|---|---|
+| Rover | Een verkenningswagen op Mars. | Jij verkent het onbekende AI-landschap, zodat de klant weet waar het veilig is. Ook een zwerver. |
+| Liftoff | Het moment van opstijgen. | Het moment dat je bedrijf met AI van de grond komt. |
+| Launch | Een lancering. | Een product lanceren. Jij helpt bedrijven met de start. |
+| Lander | Een landingsmodule. | Veilig landen in de nieuwe wereld. Ook een landingspagina. |
+| Probe | Een ruimtesonde. | "To probe": onderzoeken. Eerst verkennen, dan pas bouwen. |
+| Capsule | Een ruimtecapsule. | Een veilige ruimte om in te reizen. Ook een capsule-collectie: klein en compleet. |
+| Booster | Een draagraket die de eerste duw geeft. | Jij geeft de boost, daarna gaat de klant zelf verder. |
+| Dock | Aanmeren bij een ruimtestation. | Ook het dock op je Mac, waar je apps staan. Veilig aankoppelen. |
+| Lunar | Van de maan. | Zacht en rond van klank. Rustig licht in het donker. |
+| Moon | De maan. | "Moonshot": een groots doel. Let op: ook "to moon" in crypto. |
+| Astro | Van de sterren. | Astro is ook een webframework om snelle websites te bouwen. |
+| Payload | De lading van een raket. | In software de data die je meestuurt. Wat ertoe doet. |
+| Radar | Een radar. | "Op je radar": jij ziet wat er aankomt in AI. Leest van voor naar achter hetzelfde. |
+| Sonar | Een geluidsradar onder water. | Signalen opvangen die anderen niet horen. |
+| Countdown | Aftellen. | Tien, negen, acht: de spanning voor de start. |
+
+**Top drie:** Rover, Liftoff en Radar.
