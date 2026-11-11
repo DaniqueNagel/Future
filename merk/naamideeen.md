@@ -796,3 +796,27 @@ Zet een sterretje achter een naam die je aanspreekt, of geef je favorieten door 
 | Countdown | Aftellen. | Tien, negen, acht: de spanning voor de start. |
 
 **Top drie:** Rover, Liftoff en Radar.
+
+## 11 november 2026
+
+**Invalshoek:** tekenen en schilderen. Jij komt uit het creatieve vak. AI is een nieuw stuk gereedschap op je palet, net als een penseel.
+
+| Naam | Betekenis | Knipoog |
+|---|---|---|
+| Palet | Een schilderspalet. | Een kleurpalet in design, en een palet aan mogelijkheden: AI-tools naast elkaar, jij kiest. |
+| Muse | Een muze, een bron van inspiratie. | "To muse": nadenken. AI als muze, niet als vervanger. |
+| Muze | Een muze. | Nederlands en zacht. Iemand die je op ideeën brengt. |
+| Sketch | Een schets. | Ook een bekende ontwerptool voor schermen. Snel iets uitproberen. |
+| Stroke | Een penseelstreek. | In design de lijn om een vorm. "A stroke of genius": een geniale ingeving. |
+| Streek | Een penseelstreek, en een gebied. | "Van streek" juist niet: rustig. Let op: dubbele betekenis. |
+| Kwast | Een kwast. | Nederlands, kort en een beetje eigenwijs. "Een rare kwast": met humor. |
+| Doek | Een schildersdoek. | "Het doek valt": de onthulling. Ook een leeg doek waarop je begint. |
+| Brush | Een penseel. | Een brush in Photoshop en Procreate. Jouw gereedschap. |
+| Easel | Een schildersezel. | Wat je werk overeind houdt terwijl je schildert. Uitspraak: "iezel". |
+| Mural | Een muurschildering. | Groot en zichtbaar. Ook een bekende online whiteboardtool. |
+| Doodle | Een krabbel. | Speels. Google Doodles. Let op: kan kinderlijk overkomen. |
+| Krabbel | Een krabbeltje. | Snel iets op papier zetten. Nederlands en eigenwijs. |
+| Paint | Verf. | Microsoft Paint, het eerste tekenprogramma dat iedereen kende. |
+| Draw | Tekenen, en trekken. | "Draw a line": een duidelijke grens. Ook aantrekken: "a draw". |
+
+**Top drie:** Palet, Muse en Stroke.
