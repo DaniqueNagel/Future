@@ -820,3 +820,27 @@ Zet een sterretje achter een naam die je aanspreekt, of geef je favorieten door 
 | Draw | Tekenen, en trekken. | "Draw a line": een duidelijke grens. Ook aantrekken: "a draw". |
 
 **Top drie:** Palet, Muse en Stroke.
+
+## 12 november 2026
+
+**Invalshoek:** bomen en hout. Elke boom heeft een eigen karakter en verhaal. Rustig, sterk, en ze groeien in hun eigen tempo.
+
+| Naam | Betekenis | Knipoog |
+|---|---|---|
+| Linde | Een lindeboom. | In dorpen was de linde de plek waar mensen samenkwamen en raad vroegen. Zacht en Nederlands. |
+| Hazel | Een hazelaar. | Met een wichelroede van hazelaar zochten mensen vroeger de weg naar water. Wayfinding uit de natuur. |
+| Oak | Een eik. | Sterk en betrouwbaar. Uit een kleine eikel groeit een grote boom. |
+| Eik | Een eik. | Nederlands en kort. "Zo sterk als een eik". |
+| Willow | Een wilg. | Buigt mee met de wind en breekt niet: flexibel met AI. |
+| Wilg | Een wilg. | Nederlands. Knotwilgen horen bij het Hollandse landschap. |
+| Berk | Een berk. | Licht en wit. Een van de eerste bomen die groeit op nieuwe grond: een pionier. |
+| Cedar | Een ceder. | Geurig en duurzaam hout. Uitspraak: "sieder". |
+| Aspen | Een esp. | Ritselt bij het kleinste briesje: gevoelig voor wat er speelt. |
+| Rowan | Een lijsterbes. | Volgens oude verhalen een beschermende boom. Ook een jongensnaam. |
+| Laurel | Een laurier. | De lauwerkrans voor de winnaar. "Rest on your laurels" doe je juist niet. |
+| Olijf | Een olijfboom. | De olijftak: vrede. Rust en overzicht. Let op: Zuid-Europees beeld. |
+| Grain | De nerf van hout. | "Go against the grain": eigenwijs. Ook "fine-grained": precies tot in detail. |
+| Maple | Een esdoorn. | Zoet en warm. Let op: doet aan Canada denken. |
+| Elm | Een iep. | Kort en zacht. Elm is ook een programmeertaal voor websites. |
+
+**Top drie:** Linde, Hazel en Berk.
