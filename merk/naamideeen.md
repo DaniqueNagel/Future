@@ -844,3 +844,27 @@ Zet een sterretje achter een naam die je aanspreekt, of geef je favorieten door 
 | Elm | Een iep. | Kort en zacht. Elm is ook een programmeertaal voor websites. |
 
 **Top drie:** Linde, Hazel en Berk.
+
+## 13 november 2026
+
+**Invalshoek:** vliegen. Opstijgen, zweven, wind mee. AI kan je werk lichter maken, maar iemand houdt het touw of het roer vast.
+
+| Naam | Betekenis | Knipoog |
+|---|---|---|
+| Kite | Een vlieger. | Een vlieger vliegt hoog, maar jij houdt het touw vast: de mens houdt de regie over AI. |
+| Vlieger | Een vlieger. | Nederlands. "Die vlieger gaat niet op" juist wel: zo laat je zien dat het werkt. |
+| Wingman | De vlieger die naast je vliegt en je dekt. | Iemand die naast je staat, zoals jij het liefst werkt: met één persoon. |
+| Tailwind | Rugwind. | AI als rugwind: je gaat sneller zonder harder te trappen. Ook een bekend CSS-framework voor websites. |
+| Updraft | Een opwaartse luchtstroom. | Vogels zweven omhoog zonder te klapperen. Moeiteloos groeien. |
+| Thermiek | Warme lucht die opstijgt. | Nederlands. Zweefvliegers en roofvogels gebruiken het om hoog te komen. |
+| Glide | Zweven. | Soepel en zonder moeite. "Glide through your work". |
+| Soar | Hoog vliegen. | Ook groeien: "sales soar". Kort en open van klank. |
+| Zweef | Zweven. | Nederlands en licht. Let op: "zweverig" is het tegendeel van nuchter. |
+| Glider | Een zweefvliegtuig. | Vliegt zonder motor, alleen op de wind. Rustig en efficiënt. |
+| Runway | Een startbaan. | In bedrijven ook: hoe lang je geld nog genoeg is. Jij verlengt de startbaan. |
+| Rudder | Het roer. | Klein onderdeel, grote invloed op de richting. |
+| Cockpit | De cockpit. | Alles overzichtelijk binnen handbereik, zoals een goed dashboard. |
+| Vleugel | Een vleugel. | "Onder je vleugels nemen": iemand begeleiden. Ook een vleugelpiano. |
+| Wing | Een vleugel. | "Wing it": improviseren. Ook een vleugel van een gebouw. |
+
+**Top drie:** Kite, Tailwind en Thermiek.
