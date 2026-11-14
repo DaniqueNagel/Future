@@ -868,3 +868,27 @@ Zet een sterretje achter een naam die je aanspreekt, of geef je favorieten door 
 | Wing | Een vleugel. | "Wing it": improviseren. Ook een vleugel van een gebouw. |
 
 **Top drie:** Kite, Tailwind en Thermiek.
+
+## 14 november 2026
+
+**Invalshoek:** lichtbronnen. Geen sterren deze keer, maar het licht dat je zelf meeneemt: een lantaarn, een kaars, een fakkel. Licht dat je doorgeeft.
+
+| Naam | Betekenis | Knipoog |
+|---|---|---|
+| Peer | Een gloeilamp, in het Nederlands. | In het Engels een gelijke: peer-to-peer, naast elkaar. "Er gaat een peertje branden." |
+| Lantern | Een lantaarn. | Je loopt vooruit met licht, zodat de ander het pad ziet. |
+| Lantaarn | Een lantaarn. | Nederlands. Ook de lantaarnpaal die de straat veilig maakt. |
+| Torch | Een fakkel, een zaklamp. | PyTorch is een van de bekendste AI-frameworks. "Pass the torch": de fakkel doorgeven. |
+| Fakkel | Een fakkel. | De fakkel doorgeven: kennis van mens tot mens. |
+| Kindle | Aanwakkeren, een vuurtje aansteken. | Iets klein beginnen en het laten groeien. Let op: ook de e-reader van Amazon. |
+| Ember | Een gloeiend kooltje. | Blijft lang warm na het vuur. Ember is ook een framework voor webapps. |
+| Wick | Een kaarsenpit. | Het kleine deel dat het licht draagt. Kort, één lettergreep. |
+| Lont | Een lont. | Nederlands. Een lont aansteken: iets in gang zetten. Let op: "kort lontje". |
+| Kaars | Een kaars. | Rustig, warm licht. Licht dat je kunt delen zonder minder te krijgen. |
+| Flame | Een vlam. | Passie en energie. Let op: ook "flame war" online. |
+| Vlam | Een vlam. | "Vlam vatten": enthousiast worden. Nederlands en kort. |
+| Match | Een lucifer. | Ook een match: de juiste klik tussen mens en tool. |
+| Bulb | Een gloeilamp. | Het lampje boven je hoofd bij een idee. |
+| Firefly | Een vuurvliegje. | Klein licht in het donker. Ook de AI-beeldtool van Adobe. |
+
+**Top drie:** Peer, Torch en Lantern.
