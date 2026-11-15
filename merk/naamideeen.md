@@ -892,3 +892,27 @@ Zet een sterretje achter een naam die je aanspreekt, of geef je favorieten door 
 | Firefly | Een vuurvliegje. | Klein licht in het donker. Ook de AI-beeldtool van Adobe. |
 
 **Top drie:** Peer, Torch en Lantern.
+
+## 15 november 2026
+
+**Invalshoek:** korte Nederlandse werkwoorden, als een vriendelijke aansporing. Geen zelfstandig naamwoord, maar een uitnodiging om iets te doen. Zoals "Doe maar" of "Kies".
+
+| Naam | Betekenis | Knipoog |
+|---|---|---|
+| Durf | Durf het. | Precies wat AI vraagt: de angst voorbij durven. Kort, eigenwijs en warm. |
+| Snap | Begrijp het. | "Snap je?" In het Engels ook een snapshot en vastklikken: het valt op zijn plek. |
+| Wijs | Wijs de weg, en wijs zijn. | Twee betekenissen: wegwijzen en wijsheid. "Wegwijs in AI". |
+| Ontdek | Ontdek het. | Nieuwsgierig en open. Let op: twee lettergrepen, wat langer. |
+| Denk | Denk na. | Eerst denken, dan pas tools kiezen. Nuchter. |
+| Vraag | Stel een vraag. | Er zijn geen domme vragen. Ook: een prompt is een vraag. |
+| Leer | Leer het. | Kort en open. Ook "leer", het materiaal: duurzaam en soepel. |
+| Bouw | Bouw het. | Samen bouwen aan je eigen AI-oplossing. |
+| Doe | Doe het. | "Doe maar gewoon": typisch Nederlands en nuchter. |
+| Speel | Speel ermee. | AI leer je door ermee te spelen. Speels en creatief, een van je merkwaarden. |
+| Kies | Kies zelf. | Jij geeft opties, de klant kiest. Regie bij de mens. |
+| Zoek | Zoek het uit. | Samen uitzoeken. Let op: kan als zoekmachine klinken. |
+| Klik | Klik. | De klik als het kwartje valt, en de klik met je muis. |
+| Probeer | Probeer het. | Uitproberen zonder risico. Vriendelijke aansporing. |
+| Weet | Weet het. | Van niet weten naar weten. Kort en zelfverzekerd. |
+
+**Top drie:** Durf, Snap en Wijs.
