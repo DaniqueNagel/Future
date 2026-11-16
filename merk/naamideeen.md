@@ -916,3 +916,27 @@ Zet een sterretje achter een naam die je aanspreekt, of geef je favorieten door 
 | Weet | Weet het. | Van niet weten naar weten. Kort en zelfverzekerd. |
 
 **Top drie:** Durf, Snap en Wijs.
+
+## 16 november 2026
+
+**Invalshoek:** berichten en communicatie. Met AI praat je eigenlijk: je stelt een vraag en krijgt een antwoord. Woorden over post, gesprekken en seintjes.
+
+| Naam | Betekenis | Knipoog |
+|---|---|---|
+| Brief | Een brief, in het Nederlands. | In het Engels een briefing: een duidelijke opdracht. Een goede prompt is een goede brief. |
+| Ping | Een kort seintje. | In techniek test je met een ping of een verbinding werkt. "Ping me": laat even iets weten. |
+| Babbel | Een gezellig praatje. | Nederlands en speels. AI is ook gewoon babbelen met een computer. Let op: niet te kinderlijk maken. |
+| Hallo | Hallo. | Het eerste woord in elk gesprek, ook met AI. Laagdrempelig en open. |
+| Groet | Een groet. | Vriendelijk en Nederlands. "Met vriendelijke groet": persoonlijk. |
+| Praat | Praten. | "Praat met AI": zo werkt het echt. Kort en nuchter. |
+| Morse | Morsecode. | Een oude code die iedereen kon leren. Jij maakt de code van AI begrijpelijk. |
+| Koerier | Een koerier. | Brengt de boodschap van A naar B. Jij brengt AI bij de mensen. |
+| Inbox | Postvak in. | Waar AI het eerst helpt: je mail. Let op: heel algemeen woord. |
+| Reply | Antwoord. | Altijd een antwoord terug. Ook: snel en persoonlijk reageren. |
+| Echo | Een echo. | Je hoort je eigen vraag terug, maar dan helderder. Let op: ook de Amazon Echo. |
+| Post | De post. | Ook een post op social media, en een post als functie. |
+| Letter | Een letter. | In het Nederlands een letter, in het Engels een brief. Ontwerpers houden van letters. |
+| Bericht | Een bericht. | Nederlands. "Stuur maar een bericht": de drempel is laag. |
+| Hey | Hoi. | Informeel en warm. De opener van elk appje. |
+
+**Top drie:** Brief, Ping en Praat.
