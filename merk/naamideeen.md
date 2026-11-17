@@ -940,3 +940,27 @@ Zet een sterretje achter een naam die je aanspreekt, of geef je favorieten door 
 | Hey | Hoi. | Informeel en warm. De opener van elk appje. |
 
 **Top drie:** Brief, Ping en Praat.
+
+## 17 november 2026
+
+**Invalshoek:** taal en leestekens. AI werkt met taal, en jij maakt die taal begrijpelijk. Woorden uit grammatica, typografie en poëzie, met een tweede laag.
+
+| Naam | Betekenis | Knipoog |
+|---|---|---|
+| Komma | Een komma. | Een korte pauze, niet het einde. Even ademhalen voordat je verdergaat. |
+| Klinker | Een klinker, zoals a, e en o. | Ook een klinker als baksteen in de straat, en "dat klinkt goed". Drie lagen. |
+| Syntax | De regels van een taal. | Elke programmeertaal heeft een syntax. Jij vertaalt die naar gewone taal. |
+| Verb | Een werkwoord. | Doen in plaats van praten. Kort en techie. |
+| Quote | Een citaat. | Ook een offerte. Let op: dubbele betekenis in zakelijk Engels. |
+| Tilde | Het golfje ~. | In code betekent ~ je eigen map, je thuisbasis. Zacht en speels. |
+| Trema | De twee puntjes op een letter, zoals in "ideeën". | Een klein teken dat zegt: spreek dit apart uit. Typisch Nederlands. |
+| Rijm | Rijm. | Als iets klopt en lekker loopt. Kort en Nederlands. |
+| Proza | Gewone, lopende tekst. | Geen poëzie, gewoon helder uitgelegd. Nuchter. |
+| Vers | Een vers, en vers. | Een gedicht, en vers als nieuw en fris. Twee betekenissen. |
+| Serif | De schreefjes aan een letter. | Ontwerpers kennen het meteen. Klein detail, groot verschil. |
+| Cursief | Schuin gedrukte letters. | Voor nadruk: wat echt belangrijk is. |
+| Vowel | Een klinker, in het Engels. | Open en zacht. Zonder klinkers geen taal. |
+| Prose | Proza, in het Engels. | Helder, zonder franje. Uitspraak: "prooz". |
+| Colon | Een dubbele punt. | Wat volgt, legt het uit. Let op: in het Engels ook de dikke darm. |
+
+**Top drie:** Klinker, Tilde en Vers.
