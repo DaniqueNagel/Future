@@ -982,9 +982,9 @@ Zet een sterretje achter een naam die je aanspreekt, of geef je favorieten door 
 | Viool | Een viool. | Fijn en precies. "De eerste viool spelen" doet de klant, niet jij. |
 | Hoorn | Een hoorn. | Ook de hoorn van een telefoon: even bellen. |
 | Synth | Een synthesizer. | Elektronische muziek: mens en machine samen. Techie en kort. |
-| Keys | Toetsen, in het Engels. | Toetsen en sleutels. Ook API-keys. Let op: Key staat al op de lijst. |
+| Klavier | Een klavier, het toetsenbord van een piano. | Je eerste toetsenbord was ook een klavier. Nederlands en rustig. |
 | Bas | De bas. | De lage tonen waar alles op rust: de basis. Ook een jongensnaam. |
 | Lute | Een luit. | Oud en verfijnd. Uitspraak: "loet". |
-| Bell | Een bel. | Een heldere klank die je hoort. Let op: Bel staat al op de lijst. |
+| Fiddle | Een viool, in het Engels. | "Fiddle with": rustig prutsen en uitproberen, zo leer je AI. |
 
 **Top drie:** Toets, Snaar en Fluit.
