@@ -964,3 +964,27 @@ Zet een sterretje achter een naam die je aanspreekt, of geef je favorieten door 
 | Colon | Een dubbele punt. | Wat volgt, legt het uit. Let op: in het Engels ook de dikke darm. |
 
 **Top drie:** Klinker, Tilde en Vers.
+
+## 18 november 2026
+
+**Invalshoek:** muziekinstrumenten. Een instrument is gereedschap dat je leert bespelen. AI is ook een instrument: met wat oefening haal je er iets moois uit.
+
+| Naam | Betekenis | Knipoog |
+|---|---|---|
+| Toets | Een toets op een piano of toetsenbord. | Ook "de toets der kritiek doorstaan": getest en goed. Je typt elke dag op toetsen. |
+| Snaar | Een snaar. | "Een snaar raken": iets dat echt binnenkomt. Nederlands en zacht. |
+| Fluit | Een fluit. | "Een fluitje van een cent": een makkie. Zo moet AI voelen. |
+| Harp | Een harp. | Rustig en zacht. Veel snaren die samen één klank maken. |
+| Cello | Een cello. | Warm en diep. Klinkt rond. Let op: kan als Italiaans klinken. |
+| Gong | Een gong. | Het startsein. Eén slag en iedereen let op. |
+| Trom | Een trom. | Het ritme dat alles bij elkaar houdt. Kort en Nederlands. |
+| Orgel | Een orgel. | Veel pijpen, één speler: alles bedienen vanaf één plek. |
+| Viool | Een viool. | Fijn en precies. "De eerste viool spelen" doet de klant, niet jij. |
+| Hoorn | Een hoorn. | Ook de hoorn van een telefoon: even bellen. |
+| Synth | Een synthesizer. | Elektronische muziek: mens en machine samen. Techie en kort. |
+| Keys | Toetsen, in het Engels. | Toetsen en sleutels. Ook API-keys. Let op: Key staat al op de lijst. |
+| Bas | De bas. | De lage tonen waar alles op rust: de basis. Ook een jongensnaam. |
+| Lute | Een luit. | Oud en verfijnd. Uitspraak: "loet". |
+| Bell | Een bel. | Een heldere klank die je hoort. Let op: Bel staat al op de lijst. |
+
+**Top drie:** Toets, Snaar en Fluit.
