@@ -988,3 +988,27 @@ Zet een sterretje achter een naam die je aanspreekt, of geef je favorieten door 
 | Fiddle | Een viool, in het Engels. | "Fiddle with": rustig prutsen en uitproberen, zo leer je AI. |
 
 **Top drie:** Toets, Snaar en Fluit.
+
+## 19 november 2026
+
+**Invalshoek:** de winter. Een Hollandse winter: ijs, schaatsen, warme sjaals. Iets nieuws proberen op glad ijs, met iemand die je vasthoudt.
+
+| Naam | Betekenis | Knipoog |
+|---|---|---|
+| Rijp | Rijp op het gras, en rijp als in klaar. | Twee betekenissen: een witte winterlaag, en "rijp voor": klaar voor de volgende stap. Klaar voor de toekomst. |
+| Schaats | Een schaats. | Heel Nederlands. Iedereen leerde schaatsen met iemand naast zich. Zo leer je AI ook. |
+| Vlok | Een sneeuwvlok. | Geen twee vlokken zijn hetzelfde, net als bedrijven. Ook Snowflake, een bekend dataplatform. |
+| Wak | Een wak in het ijs. | Jij weet waar de wakken zitten, zodat de klant er niet in zakt. Let op: waarschuwend beeld. |
+| Slee | Een slee. | Samen naar beneden glijden, plezier zonder moeite. Kort en Nederlands. |
+| IJs | IJs. | "Het ijs breken": de eerste stap zetten. Let op: lastig in een domeinnaam. |
+| Sneeuw | Sneeuw. | Alles wordt even stil en rustig. Een witte, frisse start. |
+| Sjaal | Een sjaal. | Warm en beschermend. Je wikkelt je erin. |
+| Want | Een want, zo'n handschoen zonder vingers. | In het Engels "want": willen. Warm en eigenwijs. |
+| Ski | Skiën. | Moeiteloos naar beneden glijden. Kort en open. |
+| Glacier | Een gletsjer. | Langzaam maar onstuitbaar, zoals AI. Uitspraak: "glee-sjer". |
+| Frost | Vorst. | Fris en helder. Let op: hardere klank. |
+| Kristal | IJskristal. | Kristalhelder: duidelijk uitgelegd. |
+| Igloo | Een iglo. | Een warm huis van koud materiaal. Let op: kan kinderlijk overkomen. |
+| Winter | De winter. | De rustige tijd om je voor te bereiden op de lente. Let op: heel algemeen woord. |
+
+**Top drie:** Rijp, Schaats en Vlok.
