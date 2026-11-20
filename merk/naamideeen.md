@@ -1012,3 +1012,27 @@ Zet een sterretje achter een naam die je aanspreekt, of geef je favorieten door 
 | Winter | De winter. | De rustige tijd om je voor te bereiden op de lente. Let op: heel algemeen woord. |
 
 **Top drie:** Rijp, Schaats en Vlok.
+
+## 20 november 2026
+
+**Invalshoek:** kleine beestjes en hoe ze samenwerken. Mieren, bijen en zwermen doen samen dingen die alleen nooit lukken. Zo werken AI-agents ook.
+
+| Naam | Betekenis | Knipoog |
+|---|---|---|
+| Libel | Een libel. | Ook een libel is een waterpas: het belletje dat laat zien of iets recht staat. Licht, snel en precies. |
+| Krekel | Een krekel. | Japie Krekel was het geweten van Pinokkio: de stem die je goed raad geeft. Let op: kan als sprookje voelen. |
+| Hive | Een bijenkorf. | Samen sterk, alles op een vaste plek. Ook een bekende database-tool. |
+| Swarm | Een zwerm. | In AI werken agents in een swarm samen aan één taak. Let op: kan als "overweldigend" klinken. |
+| Zwerm | Een zwerm. | Nederlands. Een zwerm spreeuwen beweegt als één geheel, zonder baas. |
+| Cocon | Een cocon. | De veilige plek waar iets verandert. Je komt er anders uit. |
+| Vlinder | Een vlinder. | Het vlindereffect: een kleine verandering met groot gevolg. Ook vlinders in je buik. |
+| Hommel | Een hommel. | Volgens de natuurkunde zou hij niet kunnen vliegen, maar hij doet het toch. Durven. |
+| Mier | Een mier. | Klein, maar draagt vijftig keer zijn eigen gewicht. Kort en Nederlands. |
+| Ant | Een mier, in het Engels. | Apache Ant is een bekend bouwprogramma voor software. Kort en techie. |
+| Spin | Een spin, en draaien. | Een web bouwen, en een "spin-off". Let op: niet iedereen houdt van spinnen. |
+| Nest | Een nest. | Een warme, veilige plek. Ook de slimme thermostaat van Google. |
+| Honing | Honing. | Wat het allemaal oplevert: iets zoets na hard werk. |
+| Raat | Een honingraat. | Zeshoekjes die perfect in elkaar passen: een slim systeem. Ontwerpers houden van dat patroon. |
+| Mantis | Een bidsprinkhaan. | Geduldig en precies. Let op: kan als roofdier overkomen. |
+
+**Top drie:** Libel, Hommel en Raat.
