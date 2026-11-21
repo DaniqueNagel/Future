@@ -1036,3 +1036,27 @@ Zet een sterretje achter een naam die je aanspreekt, of geef je favorieten door 
 | Mantis | Een bidsprinkhaan. | Geduldig en precies. Let op: kan als roofdier overkomen. |
 
 **Top drie:** Libel, Hommel en Raat.
+
+## 21 november 2026
+
+**Invalshoek:** meten en wegen. Wat je meet, kun je verbeteren. Jij helpt mensen te zien wat AI ze echt oplevert, met gereedschap uit de werkplaats en het tekenbureau.
+
+| Naam | Betekenis | Knipoog |
+|---|---|---|
+| Passer | Een passer om cirkels te tekenen. | Ook een voorbijganger: iemand die even langskomt en helpt. Uit het tekenbureau van een ontwerper. |
+| Lood | Een schietlood. | "In het lood": precies recht. Je houdt alles in balans. Let op: lood is ook een zwaar metaal. |
+| Span | Een span, de breedte van een hand. | Ook een "attention span" en een tijdspanne. Kort en open. |
+| Meter | Een meter. | Ook een meter of peetoom: iemand die meekijkt en helpt. Twee betekenissen. |
+| Gauge | Een meter, zoals een brandstofmeter. | "To gauge": inschatten. Uitspraak: "geedzj". |
+| Scale | Een schaal, of weegschaal. | "To scale": opschalen met AI. Ook een toonladder. |
+| Plumb | Een schietlood. | "Plumb line": de rechte lijn. Let op: lijkt op "plumber". |
+| Inch | Een duim. | "Inch by inch": stapje voor stapje. Kort. |
+| Mijl | Een mijl. | "De extra mijl gaan": net dat beetje meer doen. Nederlands. |
+| Unit | Een eenheid. | Een unit test checkt of code werkt. Jij bent een eenheid met de klant. |
+| Metric | Een meetwaarde. | Wat je meet, kun je sturen. Let op: klinkt zakelijk. |
+| Benchmark | Een vergelijkingspunt. | AI-modellen worden met benchmarks getest. Jij zet de lat. |
+| Balans | Evenwicht, en een weegschaal. | De balans tussen mens en AI. Nederlands en rustig. |
+| Gram | Een gram. | Klein maar precies. Ook Instagram eindigt erop. |
+| Meetlat | Een meetlat. | "Langs de meetlat leggen": eerlijk vergelijken. Nederlands. |
+
+**Top drie:** Passer, Meter en Balans.
