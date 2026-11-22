@@ -1060,3 +1060,27 @@ Zet een sterretje achter een naam die je aanspreekt, of geef je favorieten door 
 | Meetlat | Een meetlat. | "Langs de meetlat leggen": eerlijk vergelijken. Nederlands. |
 
 **Top drie:** Passer, Meter en Balans.
+
+## 22 november 2026
+
+**Invalshoek:** dansen. Met AI werken is een beetje als dansen met een partner: wie leidt, wie volgt, en samen een ritme vinden. Jij leert mensen de pasjes.
+
+| Naam | Betekenis | Knipoog |
+|---|---|---|
+| Pas | Een danspas. | Ook "pas": net, zojuist, en een pasje dat toegang geeft. "Pas de deux": een dans voor twee. |
+| Duo | Een tweetal. | Jij en de klant, of mens en AI. Zoals jij het liefst werkt: met één ander. |
+| Volg | Volgen. | Bij stijldansen leidt de een en volgt de ander. Jij leidt, tot de klant zelf kan. Nederlands en kort. |
+| Lead | Leiden. | Bij dansen de leider. Let op: in sales betekent een lead een mogelijke klant. |
+| Wals | Een wals. | Rond en vloeiend, één-twee-drie. Nederlands en zacht. |
+| Sway | Wiegen. | Rustig heen en weer. "To hold sway": invloed hebben. |
+| Swing | Swing, een dansstijl. | Ook "in the swing of things": op dreef. Swing is ook een oude Java-techniek. |
+| Twirl | Een draai. | Speels en licht. Let op: kan als kinderlijk overkomen. |
+| Ritme | Het ritme. | Een vast ritme vinden in je werk. Nederlands. |
+| Twist | Een draai, en een wending. | "A twist": een verrassende wending. Een nieuwe kijk op je werk. |
+| Leap | Een sprong. | "A leap of faith": een sprong in het diepe, en jij vangt je op. |
+| Sprong | Een sprong. | Nederlands. Een sprong vooruit met AI. |
+| Dans | Een dans. | Met AI leer je dansen. Kort en vriendelijk. |
+| Pose | Een pose. | Even stilstaan in een mooie houding. "To pose a question": een vraag stellen. |
+| Step | Een stap. | De eerste stap. Let op: heel algemeen woord. |
+
+**Top drie:** Pas, Duo en Volg.
