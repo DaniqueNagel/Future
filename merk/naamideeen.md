@@ -1084,3 +1084,27 @@ Zet een sterretje achter een naam die je aanspreekt, of geef je favorieten door 
 | Step | Een stap. | De eerste stap. Let op: heel algemeen woord. |
 
 **Top drie:** Pas, Duo en Volg.
+
+## 23 november 2026
+
+**Invalshoek:** strand en kust. De Hollandse kust: duinen, golven, schelpen. Een rustige plek om uit te waaien, en veel strandwoorden hebben een verrassende tweede betekenis.
+
+| Naam | Betekenis | Knipoog |
+|---|---|---|
+| Branding | De golven die op het strand breken. | Ook branding als in merkontwikkeling: jouw vak als ontwerper. Dubbel en Nederlands. |
+| Schelp | Een schelp. | Iets moois dat je vindt als je goed kijkt. Rond, beschermend en Nederlands. |
+| Shell | Een schelp, in het Engels. | De shell is ook het venster waarin je opdrachten aan een computer geeft. |
+| Duin | Een duin. | Beschermt het land tegen de zee. Kort, Nederlands en rustig. |
+| Dune | Een duin, in het Engels. | Ook de bekende sciencefictionfilm. Let op: dat beeld is groot en zwaar. |
+| Golf | Een golf. | Een golf AI, en ook de sport: rustig, precies, stap voor stap. Let op: dubbele betekenis. |
+| Strand | Het strand. | In het Engels een streng of draad: wat dingen verbindt. Twee talen, twee lagen. |
+| Koraal | Koraal. | Langzaam gebouwd uit kleine stukjes, samen een groot rif. Ook een koraal in muziek. |
+| Reef | Een rif. | Een beschermde plek vol leven. Kort en zacht. |
+| Baai | Een baai. | Een beschutte inham waar je veilig kunt aanleggen. |
+| Cove | Een kleine baai. | Knus en beschut. Let op: lijkt op Clove, dat als "kloof" werd gelezen. |
+| Pier | Een pier. | Je loopt een stukje de zee in, met vaste grond onder je voeten. Veilig verkennen. |
+| Kaap | Een kaap. | Het puntje van het land: de eerste die de nieuwe zee ziet. |
+| Boei | Een boei. | Markeert de veilige vaargeul, en houdt je drijvende. |
+| Surf | Surfen. | Op de golf meegaan in plaats van ertegen vechten. Ook surfen op internet. |
+
+**Top drie:** Branding, Strand en Pier.
