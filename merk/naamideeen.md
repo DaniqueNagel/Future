@@ -1129,6 +1129,6 @@ Zet een sterretje achter een naam die je aanspreekt, of geef je favorieten door 
 | Citroen | Een citroen. | Fris en scherp. Let op: ook het automerk Citroën. |
 | Berry | Een bes, in het Engels. | Vriendelijk en klein. Ook een achternaam. |
 | Nectar | Nectar. | Het zoetste deel, wat bijen ophalen. De essentie van AI voor jouw bedrijf. |
-| Sap | Sap. | Het sap uit de vrucht persen: het beste eruit halen. Let op: SAP is ook groot zakelijk softwarebedrijf. |
+| Sap | Sap. | Het sap uit de vrucht persen: het beste eruit halen. Let op: SAP is ook een groot zakelijk softwarebedrijf. |
 
 **Top drie:** Kers, Pit en Braam.
