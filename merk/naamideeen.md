@@ -1108,3 +1108,27 @@ Zet een sterretje achter een naam die je aanspreekt, of geef je favorieten door 
 | Surf | Surfen. | Op de golf meegaan in plaats van ertegen vechten. Ook surfen op internet. |
 
 **Top drie:** Branding, Strand en Pier.
+
+## 24 november 2026
+
+**Invalshoek:** fruit. Rijp worden kost tijd, en het beste plukken doe je als het klaar is. Fruitnamen zijn vriendelijk en makkelijk te onthouden, en een paar hebben een verrassende techlaag.
+
+| Naam | Betekenis | Knipoog |
+|---|---|---|
+| Braam | Een braam. | BlackBerry was een van de eerste slimme telefoons voor werk. Nederlands, kort en met een stekelige knipoog. |
+| Pip | Een pit van een appel of citrus. | Pip is ook het programma waarmee je Python-software installeert. Klein, maar alles begint ermee. |
+| Pit | Een pit. | "Pit hebben": energie en durf. Ook de kern van een vrucht. Kort en Nederlands. |
+| Pruim | Een pruim. | Zacht en rond van klank. Let op: kan een beetje grappig klinken. |
+| Kers | Een kers. | "De kers op de taart": het laatste mooie detail. Precies wat AI kan toevoegen. |
+| Vijg | Een vijg. | Bijzonder en een beetje eigenwijs. Eén lettergreep. |
+| Bes | Een bes. | Klein en vol smaak. Let op: ook een vrouwennaam en een oma ("bes"). |
+| Druif | Een druif. | Groeit in trossen: samen sterker. Rijpt langzaam tot iets goeds. |
+| Plum | Een pruim, in het Engels. | "A plum job": een fijne, goed betaalde baan. Precies wat je zelf zoekt. |
+| Fig | Een vijg, in het Engels. | Ook de afkorting van "figure": een afbeelding in een document. Kort. |
+| Lime | Een limoen. | Fris en zuur. Ook een felgroene kleur. |
+| Citroen | Een citroen. | Fris en scherp. Let op: ook het automerk Citroën. |
+| Berry | Een bes, in het Engels. | Vriendelijk en klein. Ook een achternaam. |
+| Nectar | Nectar. | Het zoetste deel, wat bijen ophalen. De essentie van AI voor jouw bedrijf. |
+| Sap | Sap. | Het sap uit de vrucht persen: het beste eruit halen. Let op: SAP is ook groot zakelijk softwarebedrijf. |
+
+**Top drie:** Kers, Pit en Braam.
