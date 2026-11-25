@@ -1132,3 +1132,27 @@ Zet een sterretje achter een naam die je aanspreekt, of geef je favorieten door 
 | Sap | Sap. | Het sap uit de vrucht persen: het beste eruit halen. Let op: SAP is ook een groot zakelijk softwarebedrijf. |
 
 **Top drie:** Kers, Pit en Braam.
+
+## 25 november 2026
+
+**Invalshoek:** rust en ademruimte. Rust en overzicht is het eerste wat een klant moet voelen. Woorden over op adem komen, met een paar woorden uit andere talen die precies dat gevoel vangen.
+
+| Naam | Betekenis | Knipoog |
+|---|---|---|
+| Lagom | Zweeds voor "precies genoeg". | Niet te veel AI, niet te weinig: precies goed. Rond, zacht en makkelijk uit te spreken. |
+| Adem | Adem. | "Op adem komen": ruimte krijgen doordat AI werk overneemt. Kort en Nederlands. |
+| Oase | Een oase. | Een rustige plek midden in de drukte van AI-nieuws. |
+| Exhale | Uitademen. | De zucht van opluchting als het eindelijk werkt. |
+| Hygge | Deens voor knus en gezellig. | Warm en vertrouwd. Let op: uitspraak "hukke" is niet voor iedereen makkelijk. |
+| Wabi | Japans voor eenvoud, uit wabi-sabi. | Schoonheid in het eenvoudige en onvolmaakte. Eigenwijs. |
+| Gemak | Gemak. | "Op je gemak": rustig en zonder druk. Ook gemak als makkelijk. Nederlands. |
+| Zacht | Zacht. | Een zachte landing in AI. Let op: kan als te slap klinken. |
+| Stilte | Stilte. | Even geen ruis. Let op: kan als leeg overkomen. |
+| Hush | Stil, sst. | Rust in je hoofd. Kort en zacht. |
+| Oord | Een oord, een plek. | Een rustoord, een kuuroord: een plek waar je bijkomt. Nederlands en kort. |
+| Sereen | Sereen, kalm. | Helder en rustig, als een strakblauwe lucht. |
+| Breath | Een ademhaling. | "A breath of fresh air": een frisse wind. |
+| Mellow | Zacht en ontspannen. | Rijp en rustig. Let op: kan als lui klinken. |
+| Lotus | Een lotusbloem. | Groeit mooi uit modder. Ook Lotus Notes, oude kantoorsoftware. |
+
+**Top drie:** Lagom, Adem en Oase.
