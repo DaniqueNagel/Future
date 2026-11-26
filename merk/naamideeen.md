@@ -1156,3 +1156,27 @@ Zet een sterretje achter een naam die je aanspreekt, of geef je favorieten door 
 | Lotus | Een lotusbloem. | Groeit mooi uit modder. Ook Lotus Notes, oude kantoorsoftware. |
 
 **Top drie:** Lagom, Adem en Oord.
+
+## 26 november 2026
+
+**Invalshoek:** kleurnamen. Jij werkt met kleur als ontwerper. Een kleurnaam kan ook een merknaam zijn, en een paar hebben een tweede laag in techniek of taal.
+
+| Naam | Betekenis | Knipoog |
+|---|---|---|
+| Sage | Saliegroen, een rustig grijsgroen. | In het Engels ook een wijze: iemand die raad geeft. Rustige kleur, wijze gids. |
+| Salie | Salie, het kruid en de kleur. | Nederlands. Salie werd vroeger gebruikt om te zuiveren: helderheid. |
+| Azure | Hemelsblauw. | Ook Azure, het cloudplatform van Microsoft waarop veel AI draait. |
+| Cyaan | Cyaan, de blauwe inkt in CMYK. | De eerste kleur in elke drukker. Jouw vak, en kort en fris. |
+| Teal | Blauwgroen. | Rustig en fris. Ook een eend, de taling. |
+| Oker | Okergeel, aardse kleur. | Warm en natuurlijk. Een van de oudste pigmenten, uit grotschilderingen. |
+| Taupe | Grijsbruin. | Rustig en tijdloos. Uitspraak: "toop". |
+| Umber | Omber, een aardebruin. | Warm en diep. Let op: lijkt op "Uber". |
+| Lila | Lila. | Zacht en vriendelijk. Ook een meisjesnaam. |
+| Navy | Marineblauw. | Betrouwbaar en klassiek. Let op: doet aan de marine denken. |
+| Ecru | Ongebleekt wit. | Puur en naturel. Uitspraak: "ekru". |
+| Saffron | Saffraan, goudgeel. | Kostbaar en warm. Een klein beetje maakt veel verschil. |
+| Blauw | Blauw. | De kleur van vertrouwen. Kort en Nederlands. Let op: heel algemeen. |
+| Groen | Groen. | Groen licht: je mag beginnen. En "groen" als beginner: welkom. |
+| Pastel | Pastel, zachte tinten. | Zacht en licht. Ook pastelkrijt om mee te schetsen. |
+
+**Top drie:** Sage, Azure en Groen.
