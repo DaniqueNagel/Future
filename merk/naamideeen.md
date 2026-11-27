@@ -1180,3 +1180,27 @@ Zet een sterretje achter een naam die je aanspreekt, of geef je favorieten door 
 | Pastel | Pastel, zachte tinten. | Zacht en licht. Ook pastelkrijt om mee te schetsen. |
 
 **Top drie:** Sage, Azure en Groen.
+
+## 27 november 2026
+
+**Invalshoek:** varen en water. Nederland is een land van water en boten. Je vindt je koers, stuurt bij en zoekt beschutting. Dat is ook wat je doet als je AI leert gebruiken.
+
+| Naam | Betekenis | Knipoog |
+|---|---|---|
+| Roer | Het stuur van een boot. | "Het roer in handen nemen" en "het roer omgooien". Met AI houdt de klant zelf het roer. |
+| Zeil | Het doek dat de wind vangt. | AI is de wind, jij leert mensen het zeil te zetten. |
+| Kiel | De onderkant van een boot, die hem stabiel houdt. | Rust en balans, ook als het hard waait. In het Engels: "on an even keel". |
+| Koers | De richting waarin je vaart. | "Koers bepalen" en "op koers blijven". Ook de koers van een aandeel. |
+| Mast | De paal die het zeil draagt. | Rechtop en van ver te zien. Ook een zendmast, die signalen doorgeeft. |
+| Wake | Het spoor in het water achter een boot. | In het Engels ook "wakker worden". Wakker worden voor AI, en zien welk spoor je achterlaat. |
+| Luw | Beschut tegen de wind. | "In de luwte": een rustige plek om te leren, terwijl het buiten stormt. |
+| Oever | De kant van het water. | Veilig aan de overkant komen. Jij helpt mensen oversteken. |
+| Port | Een haven in het Engels. | Ook een poort op je computer, waar je iets op aansluit. |
+| Deck | Het dek van een schip. | Ook een "slide deck", een presentatie. "All hands on deck": iedereen doet mee. |
+| Sluis | Brengt boten van het ene waterniveau naar het andere. | Stap voor stap naar een hoger niveau, zonder schokken. Heel Nederlands. |
+| Polder | Drooggelegd land achter de dijk. | "Polderen": samen overleggen tot het werkt. Nuchter Nederlands. |
+| Kano | Een smalle boot die je zelf peddelt. | Jij doet het zelf, AI geeft je alleen een betere peddel. |
+| Wad | De Waddenzee, die bij eb droogvalt. | Wadlopen doe je nooit zonder gids. Zo voelt AI ook: met een gids kom je veilig over. |
+| Sloep | Een kleine open boot. | Ontspannen varen met vrienden. AI zonder stress. |
+
+**Top drie:** Roer, Wad en Luw.
