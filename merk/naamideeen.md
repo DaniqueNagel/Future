@@ -1204,3 +1204,27 @@ Zet een sterretje achter een naam die je aanspreekt, of geef je favorieten door 
 | Sloep | Een kleine open boot. | Ontspannen varen met vrienden. AI zonder stress. |
 
 **Top drie:** Roer, Wad en Luw.
+
+## 28 november 2026
+
+**Invalshoek:** theater en podium. In het theater fluistert de souffleur de tekst in, en dat is precies wat een prompt doet. Met AI werken lijkt op een voorstelling: iedereen heeft een rol, er is een tekst en er is een regie.
+
+| Naam | Betekenis | Knipoog |
+|---|---|---|
+| Prompt | In het theater: de tekst inzeggen. | Ook het woord voor wat je aan AI vraagt. Misschien te letterlijk, maar iedereen snapt het meteen. |
+| Souffleur | De persoon die de spelers hun tekst influistert. | Wat een prompt eigenlijk doet. Jij bent de souffleur achter de schermen. Let op: Frans. |
+| Rol | De rol die een speler krijgt. | Bij AI geef je ook een rol: "jij bent een redacteur". En jij hebt een rol in hun verhaal. |
+| Cast | Alle spelers van een voorstelling. | Mensen en AI spelen samen. Ook bekend van podcast. |
+| Decor | Het toneelbeeld achter de spelers. | AI is het decor: het ondersteunt, de mens staat vooraan. |
+| Stage | Een podium in het Engels. | In het Nederlands is een stage een leerplek. Klaar voor het podium, en leren in de praktijk. |
+| Loge | Een balkon met het beste zicht op het toneel. | Overzicht: jij laat mensen het hele stuk zien. |
+| Foyer | Waar je elkaar ontmoet, voor en na de voorstelling. | Een warme, open plek om in te stappen. |
+| Opmaat | De noten die het eerste hele maatdeel inleiden. | "De opmaat naar iets nieuws": het begin van een andere manier van werken. |
+| Toneel | Het podium en het spel. | "Het toneel betreden": nu is het jouw beurt. |
+| Spel | Spelen en het spel. | Spelenderwijs leren. AI mag ook leuk zijn. |
+| Plot | De verhaallijn. | In data ook een grafiek: een plot. Verhaal en cijfers samen. |
+| Bis | Wat je roept als je nog een keer wilt. | Bij AI vraag je ook gewoon nog een keer, tot het goed is. |
+| Improv | Improvisatietheater. | Met AI improviseer je samen: je zegt iets, het antwoordt, je bouwt verder. |
+| Props | Spullen op het podium. | In het Engels ook waardering: "props to you". En in software een bouwsteen (React-props). |
+
+**Top drie:** Opmaat, Rol en Souffleur.
